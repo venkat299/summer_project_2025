@@ -1,0 +1,1218 @@
+[
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc.",
+                    "Keyword Detected": "experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "crypto, masternodes, nodes, validators",
+                    "rule_type": "",
+                    "agent": "candidate",
+                    "action": "possess experience in crypto, masternodes, nodes, validators"
+                },
+                "status": "Pass",
+                "explanation": "The candidate has extensive experience with blockchain technologies including Solidity, ERC standards, and various development tools. They also have a strong background in web development and leadership roles, aligning well with the requirement for experience in crypto, masternodes, nodes, validators etc.",
+                "similarity_score": 0.47,
+                "best_match": "Landed a role of Director of Blockchain Development in a metaverse project in Feb, 2022\nWho am I:\r\n- 13 years of commercial experience as a software engineer (web projects, customers from Europe and US);\r\n- 5 years in roles of team lead, tech lead, architect (including coding);\r\n- constant learner (books, courses, youtube);\r\n- C1 (Advanced) level of English (IELTS General = 7/9);\r\n- tech languages: C#, JavaScript, Solidity;\r\n- ready to learn Rust/Go"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "We need to set up: Kyber Network, Nebulas, SecretNetwork, Tron, Aion, DeFiChain, EOS, TomoChain, Elrond, IRISnet, IoTeX, Terra, ChainX, Thorchain",
+                    "Keyword Detected": "set up",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Kyber Network, Nebulas, SecretNetwork, Tron, Aion, DeFiChain, EOS, TomoChain, Elrond, IRISnet, IoTeX, Terra, ChainX, Thorchain",
+                    "rule_type": "",
+                    "agent": "candidate",
+                    "action": "set up specified blockchain networks"
+                },
+                "status": "Fail",
+                "explanation": "The child document does not list experience with Kyber Network, Nebulas, SecretNetwork, Tron, Aion, DeFiChain, EOS, TomoChain, Elrond, IRISnet, IoTeX, Terra, or ChainX/Thorchain. It focuses on Solidity development and related technologies but doesn's explicitly mention these specific blockchains.",
+                "similarity_score": 0.316,
+                "best_match": "js, OpenZeppelin, IPFS;\r\n- Databases: MS SQL (and any relational), NoSQL (MongoDB);\r\n- CI/CD: GitLab, TeamCity, BitBucket, Azure CI/CD Pipelines, GitHub Actions"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Succesful candidates will have an opportunity to get more jobs and long term collaboration.",
+                    "Keyword Detected": "opportunity",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "more jobs, long term collaboration",
+                    "rule_type": "",
+                    "agent": "candidate",
+                    "action": "receive opportunity for more jobs and long term collaboration"
+                },
+                "status": "Pass",
+                "explanation": "The candidate clearly states they landed a director role and express interest in long-term collaboration, fulfilling the requirement.",
+                "similarity_score": 0.306,
+                "best_match": "I am interested in:\r\n- part-time engagement;\r\n- blockchain projects (DeFi, NFT, Gaming, Metaverse);\r\n- high salary (I apply to jobs paid $120+ per hour);\r\n- roles of a researcher and/or a leader rather than just coder;\r\n- ability to work remotely from Bali (with that said, I'm ok with visiting office during initial months to earn your respect and trust);\r\n- freedom in taking decisions;\r\n- time zone of Europe or Asia;\r\n- 1-2 interviews as a max, with tech specialists and managers"
+            }
+        ],
+        {
+            "compliance_rate": 0.67,
+            "avg_similarity": 0.36
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "2+ years of hands-on experience of .Net development (C#)",
+                    "Keyword Detected": "experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": ".Net development (C#), 2+ years",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess qualification"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes mobile application development, not .Net (C#) development as required.",
+                "similarity_score": 0.109,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Strong skills in .Net Framework (.Net Core would be a plus)",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": ".Net Framework, .Net Core",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess qualification"
+                },
+                "status": "Fail",
+                "explanation": "The requirement specifies .Net Framework or Core skills, and the child document describes mobile app development which doesn't inherently demonstrate those skills.",
+                "similarity_score": 0.096,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Database skills, SQL knowledge",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Database skills, SQL knowledge",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess qualification"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes mobile app development, which doesn't directly demonstrate database or SQL skills.",
+                "similarity_score": 0.101,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "English: intermediate or higher.",
+                    "Keyword Detected": "English",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "English, intermediate or higher",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess qualification"
+                },
+                "status": "Pass",
+                "explanation": "The text is simple and clear, indicating an intermediate level of English.",
+                "similarity_score": -0.008,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Remote",
+                    "Keyword Detected": "Remote",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Remote work",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "work remotely"
+                },
+                "status": "Fail",
+                "explanation": "The requirement \"Remote\" implies a remote work or access context, which is not present in the child document describing a mobile application.",
+                "similarity_score": 0.164,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "Salary: 3000-5000 USD gross",
+                    "Keyword Detected": "Salary",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "3000-5000 USD gross",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "earn salary"
+                },
+                "status": "Fail",
+                "explanation": "The child document does not mention salary information, failing to meet the requirement.",
+                "similarity_score": -0.017,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "Full time (40 hours per week)",
+                    "Keyword Detected": "Full time",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "40 hours per week",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "work full time"
+                },
+                "status": "Fail",
+                "explanation": "The child document does not specify a work schedule or hours per week.",
+                "similarity_score": 0.115,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R008",
+                    "Extracted Rule": "Direct contract",
+                    "Keyword Detected": "contract",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Direct contract",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "have direct contract"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes work on a mobile application, not a direct contract.",
+                "similarity_score": 0.041,
+                "best_match": "Worked on a mobile application for tracking trips"
+            }
+        ],
+        {
+            "compliance_rate": 0.12,
+            "avg_similarity": 0.08
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "Expert-level with the browser is a must",
+                    "Keyword Detected": "must",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Expert-level with the browser",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess expert-level browser knowledge"
+                },
+                "status": "Pass",
+                "explanation": "The candidate demonstrates experience with 1C development, including API integration and data exchange formats (XML/JSON), indicating a high level of browser interaction expertise.",
+                "similarity_score": 0.176,
+                "best_match": "1 am an 1C developer"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Highly preferred if you\u2019re experienced with a broader range of technologies (Python, Java, Go, C#, PHP etc)",
+                    "Keyword Detected": "preferred",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience with Python, Java, Go, C#, PHP",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience with a broader range of technologies"
+                },
+                "status": "Fail",
+                "explanation": "The child document focuses solely on 1C development. It doesn't demonstrate experience with the broader range of technologies mentioned in the requirement (Python, Java, Go, C#, PHP etc.).",
+                "similarity_score": 0.239,
+                "best_match": "I create modules for exchange data between 1C and web services using HTTP or Rest API"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Build prototypes and features from start to finish: plan, build, test, deploy, iterate",
+                    "Keyword Detected": "build",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "prototypes, features",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "build prototypes and features from start to finish"
+                },
+                "status": "Pass",
+                "explanation": "The child document describes a developer who has experience in all stages: planning, building (modules), testing (supporting systems), deploying, and iterating.",
+                "similarity_score": 0.256,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Have an ownership mindset, value low process, high impact and real ownership in the company",
+                    "Keyword Detected": "ownership",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "ownership mindset, low process, high impact",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "demonstrate an ownership mindset and value low process, high impact"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates taking ownership of development and deployment tasks, aligning with the requirement for an ownership mindset.",
+                "similarity_score": 0.199,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Thoughtful about creating and mantaining a world-class engineering culture in the company",
+                    "Keyword Detected": "Thoughtful",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "world-class engineering culture",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "be thoughtful about creating and maintaining a world-class engineering culture"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes technical tasks and deployments, but doesn't demonstrate thoughtfulness or actions related to building and maintaining a world-class engineering culture.",
+                "similarity_score": 0.204,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "Have strong opinions on tech decisions, but happy to continuously challenge it",
+                    "Keyword Detected": "happy",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "tech decisions",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "have strong opinions and be open to challenge them"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates a clear involvement in technical decisions (deployment, module creation) and implies willingness to adapt through experience.",
+                "similarity_score": 0.293,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            }
+        ],
+        {
+            "compliance_rate": 0.67,
+            "avg_similarity": 0.23
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "2+ years of proven e-commerce experience",
+                    "Keyword Detected": "years",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "2+ years, e-commerce experience",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The candidate has over 10 years of experience as a 1C developer, clearly exceeding the 2+ year requirement for e-commerce experience (though not explicitly stated as e-commerce, the extensive 1C development and system integration demonstrates relevant experience).",
+                "similarity_score": 0.414,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "preferably with Amazon product management, marketing, or an analytical function",
+                    "Keyword Detected": "preferably",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Amazon product management, marketing, analytical function",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The candidate possesses extensive 1C experience, along with relevant skills in Java and Spring Framework, aligning well with product management, marketing, or analytical functions.",
+                "similarity_score": 0.266,
+                "best_match": "0;\r\n- BAS Accounting;\r\n- BAS Agro accounting from Inagro;\r\n\r\nIntegrated third-party systems such as:\r\n- Industrial SCADA systems;\r\n- LyriX access control system;\r\n- Vivoteck video surveillance system;\r\n- Transport scales;\r\n- Foss Milkoskan laboratory equipment;\r\n- Tiamo Metrohm laboratory equipment;\r\n- MD Declaration software;\r\n- DTM feeder software;\r\n- Software Uniform;\r\n- Wialon software;\r\n- DairyPlan software;\r\n- IT Enterprise software;\r\n\r\nStudy experience\r\nFinished the Java spring mentoring course at Foxminded"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Good understanding of SEO, PPC and tools used inside and outside of Amazon",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "SEO, PPC, Amazon tools",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess understanding"
+                },
+                "status": "Pass",
+                "explanation": "The candidate demonstrates strong 1C skills, Java/Spring expertise, and experience integrating third-party systems \u2013 all relevant to SEO, PPC, and Amazon tools.",
+                "similarity_score": 0.307,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Excellent English written and verbal communication skills",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "English written and verbal communication skills",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess skills"
+                },
+                "status": "Pass",
+                "explanation": "The document demonstrates strong communication skills through clear descriptions of technical expertise, project experience, and responsibilities.",
+                "similarity_score": 0.397,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Ability to handle aggressive deadlines and prioritize work in a fast-paced, often ambiguous environment daily",
+                    "Keyword Detected": "Ability",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "aggressive deadlines, fast-paced environment",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess ability"
+                },
+                "status": "Pass",
+                "explanation": "The candidate's extensive experience as a 1C developer, including managing databases and integrating third-party systems, demonstrates the ability to handle fast-paced environments.",
+                "similarity_score": 0.353,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "Strong proficiency in Excel/Google Sheets",
+                    "Keyword Detected": "proficiency",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Excel/Google Sheets",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess proficiency"
+                },
+                "status": "Fail",
+                "explanation": "While the candidate has extensive experience with 1C, the requirement specifically asks for Excel/Google Sheets proficiency. This is not mentioned in their skillset or experience.",
+                "similarity_score": 0.335,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "Familiar with other platforms such as Walmart, eBay, Shopify",
+                    "Keyword Detected": "Familiar",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Walmart, eBay, Shopify",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess familiarity"
+                },
+                "status": "Pass",
+                "explanation": "The candidate explicitly mentions integrating third-party systems, demonstrating familiarity beyond 1C.",
+                "similarity_score": 0.321,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            }
+        ],
+        {
+            "compliance_rate": 0.86,
+            "avg_similarity": 0.34
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "2+ years of proven e-commerce experience, preferably with Amazon product management, marketing, or an analytical function",
+                    "Keyword Detected": "experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "2+ years of experience, Amazon product management, marketing, analytical function",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The candidate explicitly states \"2 years of proven experience\" which satisfies the requirement for 2+ years of e-commerce experience. While Amazon experience isn't mentioned, the overall experience aligns.",
+                "similarity_score": 0.46,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Good understanding of SEO, PPC and tools used inside and outside of Amazon",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "SEO, PPC, Amazon tools, external tools",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess understanding"
+                },
+                "status": "Fail",
+                "explanation": "The child document lacks any mention of SEO, PPC, or related tools. It focuses on customer support experience and personal goals instead.",
+                "similarity_score": 0.232,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Ability to dig through data, analyze and provide recommendations from your insights",
+                    "Keyword Detected": "Ability",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "data, insights",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess ability"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes experience and passion but lacks any demonstration of data analysis or providing recommendations based on insights.",
+                "similarity_score": 0.364,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Excellent English written and verbal communication skills, a high level of organization, and impeccable attention to detail",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "English written and verbal communication skills, organization, attention to detail",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess skills"
+                },
+                "status": "Fail",
+                "explanation": "The writing contains grammatical errors and lacks polish, indicating a need for improvement in English communication skills. The overall tone is informal and not \"impeccable.\"",
+                "similarity_score": 0.433,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Ability to handle aggressive deadlines and prioritize work in a fast-paced, often ambiguous environment daily",
+                    "Keyword Detected": "Ability",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "aggressive deadlines, fast-paced environment",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess ability"
+                },
+                "status": "Pass",
+                "explanation": "The candidate highlights experience with \"difficult, monotonous work\" and a proactive approach (\"I love what I do\"), suggesting an ability to handle pressure and ambiguity.",
+                "similarity_score": 0.403,
+                "best_match": "I've been doing difficult, monotonous work for years, and I've learned how to do it perfectly"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "A highly analytical person who can manage multiple projects and figure out complex problems",
+                    "Keyword Detected": "person",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "multiple projects, complex problems",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "be analytical"
+                },
+                "status": "Pass",
+                "explanation": "The child document highlights problem-solving skills (\"thousands of resolved problems\"), experience, and a desire for high-level roles indicating analytical ability and project management potential.",
+                "similarity_score": 0.35,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "Demonstrated ability to create engaging content, come up with creative ideas, and think outside the box",
+                    "Keyword Detected": "ability",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "engaging content, creative ideas",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess ability"
+                },
+                "status": "Fail",
+                "explanation": "The document primarily focuses on experience and desired role level, lacking evidence of creative ideation or engaging content creation.",
+                "similarity_score": 0.303,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R008",
+                    "Extracted Rule": "Familiar with other platforms such as Walmart, eBay, Shopify, etc. \u2013 advantage",
+                    "Keyword Detected": "advantage",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Walmart, eBay, Shopify",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "be familiar with platforms"
+                },
+                "status": "Fail",
+                "explanation": "The document doesn't mention familiarity with platforms like Walmart, eBay, or Shopify. It focuses on experience and skills rather than platform knowledge.",
+                "similarity_score": 0.339,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R009",
+                    "Extracted Rule": "Strong proficiency in Excel/Google Sheets",
+                    "Keyword Detected": "proficiency",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Excel, Google Sheets",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess proficiency"
+                },
+                "status": "Fail",
+                "explanation": "The document does not mention Excel or Google Sheets proficiency, failing to meet the requirement.",
+                "similarity_score": 0.318,
+                "best_match": "I've been doing difficult, monotonous work for years, and I've learned how to do it perfectly"
+            }
+        ],
+        {
+            "compliance_rate": 0.33,
+            "avg_similarity": 0.36
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "Experience with PHP 2+ years;",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "PHP, 2+ years",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes support and QA tasks, but does not explicitly mention PHP experience.",
+                "similarity_score": 0.281,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Strong knowledge and work experience with Laravel;",
+                    "Keyword Detected": "knowledge",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Laravel",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess knowledge and experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes customer support duties, not Laravel development experience.",
+                "similarity_score": 0.407,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Experience with JavaScript (Vue.js);",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "JavaScript, Vue.js",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes customer support duties but does not explicitly mention experience with JavaScript or Vue.js.",
+                "similarity_score": 0.164,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Excellent knowledge of databases (MySQL);",
+                    "Keyword Detected": "knowledge",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "MySQL",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess knowledge"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes customer support duties, not database knowledge (MySQL).",
+                "similarity_score": 0.334,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Experience working with GIT;",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "GIT",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes customer support duties; it does not mention any experience with GIT.",
+                "similarity_score": 0.286,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "Good problem-solving abilities;",
+                    "Keyword Detected": "abilities",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "problem-solving abilities",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess abilities"
+                },
+                "status": "Pass",
+                "explanation": "The child document describes responsibilities that clearly demonstrate good problem-solving abilities, such as diagnosing issues and proposing improvements.",
+                "similarity_score": 0.258,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "English - Intermediate.",
+                    "Keyword Detected": "Intermediate",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "English, Intermediate level",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess language proficiency"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates a range of tasks suitable for an intermediate English speaker, involving communication and problem-solving.",
+                "similarity_score": 0.169,
+                "best_match": "provide customer support via telephone, e-mail, Skype in Polish and English languages\r\n propose improvements to services of company\r\n diagnose and resolve incidents to the customers satisfaction\r\n identify and escalate repeat issues or service risks to the support manager\r\n manage incidents and requests through their entire lifecycle\r\n provide regular reporting on number of cases, resolution times, etc"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R008",
+                    "Extracted Rule": "Server management.",
+                    "Keyword Detected": "management",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Server management",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The child document details responsibilities directly related to server management, including incident resolution, reporting, and quality assurance.",
+                "similarity_score": 0.377,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            }
+        ],
+        {
+            "compliance_rate": 0.38,
+            "avg_similarity": 0.28
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "Experience in IT sales 1+ year",
+                    "Keyword Detected": "year",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "1+ year of IT sales experience",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The candidate's experience includes managing servers and workstations, demonstrating IT experience exceeding the 1+ year requirement.",
+                "similarity_score": 0.421,
+                "best_match": "Acting as the first point of contact for all IT & technical queries"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Generic understanding of IT technologies and Software Development process",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "generic understanding of IT technologies and Software Development process",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess understanding"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates a broad range of IT skills and experience across various technologies, indicating generic understanding.",
+                "similarity_score": 0.44,
+                "best_match": "Acting as the first point of contact for all IT & technical queries"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Knowledge of sales techniques, sales markets",
+                    "Keyword Detected": "Knowledge",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "knowledge of sales techniques and sales markets",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess knowledge"
+                },
+                "status": "Fail",
+                "explanation": "The document details technical skills and support duties but lacks any mention of sales techniques or markets.",
+                "similarity_score": 0.319,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Good communication and negotiation skills",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "good communication and negotiation skills",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess skills"
+                },
+                "status": "Pass",
+                "explanation": "The description highlights excellent client-facing skills, problem-solving abilities, and experience collaborating with others, demonstrating good communication and negotiation.",
+                "similarity_score": 0.539,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Fluent written and good spoken English",
+                    "Keyword Detected": "Fluent",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "fluent written and good spoken English",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess language skills"
+                },
+                "status": "Pass",
+                "explanation": "The document demonstrates strong technical skills and clear communication of responsibilities, indicating good written English. While not explicitly stated, the detailed descriptions suggest competent spoken communication as well.",
+                "similarity_score": 0.378,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            }
+        ],
+        {
+            "compliance_rate": 0.8,
+            "avg_similarity": 0.42
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "At least 2 years of experience in digital marketing (B2B).",
+                    "Keyword Detected": "At least",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "2 years of experience, digital marketing (B2B)",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills, but does not mention any digital marketing experience, especially B2B.",
+                "similarity_score": 0.156,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "At least 2 years of experience in IT outsourcing as a must",
+                    "Keyword Detected": "At least",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "2 years of experience, IT outsourcing",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes technical skills, but does not mention any experience in IT outsourcing.",
+                "similarity_score": 0.244,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "English level both verbal and written: Upper Intermediate/B2+",
+                    "Keyword Detected": "level",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "English level, Upper Intermediate/B2+",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess language proficiency"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and technologies, not demonstrating upper-intermediate English writing or verbal communication.",
+                "similarity_score": 0.196,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Experience in conducting marketing research.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "marketing research experience",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills but does not mention any experience with marketing research.",
+                "similarity_score": 0.209,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Experience in creating technical tasks for generation landing pages, blog posts, white papers, case studies, and other marketing collateral.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience in creating technical tasks, landing pages, blog posts, white papers, case studies, marketing collateral",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills, but doesn't demonstrate experience creating tasks for marketing content like landing pages or blog posts.",
+                "similarity_score": 0.347,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "A strong understanding of digital marketing channels.",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "strong understanding, digital marketing channels",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess understanding"
+                },
+                "status": "Fail",
+                "explanation": "The child document primarily lists technical skills related to 1C programming and general web technologies. It doesn't demonstrate a strong understanding of digital marketing channels themselves.",
+                "similarity_score": 0.138,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "Experience with customer segmentation, profiling, and targeting.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience with customer segmentation, profiling, and targeting",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills but does not demonstrate experience with customer segmentation, profiling, or targeting.",
+                "similarity_score": 0.273,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R008",
+                    "Extracted Rule": "Proficiency with analytics tools and web traffic reporting.",
+                    "Keyword Detected": "Proficiency",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "proficiency with analytics tools, web traffic reporting",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess proficiency"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists programming skills and technologies, but does not explicitly mention proficiency with analytics tools or web traffic reporting.",
+                "similarity_score": 0.31,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R009",
+                    "Extracted Rule": "Experience in content distribution via different channels such as Quora, Reddit, LinkedIn, Facebook etc.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience in content distribution, Quora, Reddit, LinkedIn, Facebook",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and programming experience, but does not mention content distribution on platforms like Quora, Reddit, LinkedIn, or Facebook.",
+                "similarity_score": 0.259,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R010",
+                    "Extracted Rule": "Experience with SEO.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience with SEO",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Pass",
+                "explanation": "The child document lists JavaScript and related technologies, indicating some SEO knowledge is likely present.",
+                "similarity_score": 0.248,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R011",
+                    "Extracted Rule": "Excel and Google spreadsheet skills for data analysis.",
+                    "Keyword Detected": "skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Excel and Google spreadsheet skills, data analysis",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess skills"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists programming skills and technologies, but does not explicitly mention Excel or Google Sheets for data analysis.",
+                "similarity_score": 0.292,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R012",
+                    "Extracted Rule": "Experience in building and optimizing Facebook campaigns.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "experience in building and optimizing Facebook campaigns",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document lists technical skills unrelated to Facebook campaign experience. It focuses on 1C programming and web development technologies, not marketing or advertising platforms.",
+                "similarity_score": 0.184,
+                "best_match": "js, React, MongoDB, SQL"
+            }
+        ],
+        {
+            "compliance_rate": 0.08,
+            "avg_similarity": 0.24
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "2+ years of experience and proven track records in sales;",
+                    "Keyword Detected": "experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "2+ years of experience, proven track records in sales",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Fail",
+                "explanation": "The child document lists software proficiency and roles, but lacks any concrete evidence of 2+ years of sales experience or proven track records in sales.",
+                "similarity_score": 0.217,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Excellent communication skills (both verbal and written);",
+                    "Keyword Detected": "communication skills",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Excellent communication skills (both verbal and written)",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates communication through a list of software used and a closing thank you, indicating verbal and written skills.",
+                "similarity_score": 0.292,
+                "best_match": "Served as Animation Director, Deputy Director for Project Management\r\n\r\nI would love to talk to a real person!\r\nThank you\r\n(Ukraine)\r\n\r\nPC"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Advanced level of English;",
+                    "Keyword Detected": "level",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Advanced level of English",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Fail",
+                "explanation": "The text demonstrates basic English and lists software, not exhibiting an advanced level of language proficiency.",
+                "similarity_score": 0.246,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "Software development process understanding and IT industry knowledge;",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Software development process understanding, IT industry knowledge",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates a broad range of software and tools used in IT, indicating understanding of the software development process and IT industry knowledge.",
+                "similarity_score": 0.201,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Good understanding of the US and European markets and ability to manage operations there.",
+                    "Keyword Detected": "understanding",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Good understanding of the US and European markets, ability to manage operations",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Fail",
+                "explanation": "The document lists software and project management tools, but doesn's demonstrate understanding or experience managing operations in the US or European markets.",
+                "similarity_score": 0.115,
+                "best_match": "Served as Animation Director, Deputy Director for Project Management\r\n\r\nI would love to talk to a real person!\r\nThank you\r\n(Ukraine)\r\n\r\nPC"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R006",
+                    "Extracted Rule": "In this role, you should be able to work independently with little supervision;",
+                    "Keyword Detected": "should",
+                    "Requirement Type": "DEONTIC",
+                    "Required Data Mentioned": "ability to work independently with little supervision",
+                    "rule_type": "PERMISSION",
+                    "agent": "applicant",
+                    "action": "work independently with little supervision"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates independent work through a detailed list of software used and roles held, indicating self-direction.",
+                "similarity_score": 0.33,
+                "best_match": "Served as Animation Director, Deputy Director for Project Management\r\n\r\nI would love to talk to a real person!\r\nThank you\r\n(Ukraine)\r\n\r\nPC"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R007",
+                    "Extracted Rule": "You should have excellent organization and problem-solving skills;",
+                    "Keyword Detected": "should",
+                    "Requirement Type": "DEONTIC",
+                    "Required Data Mentioned": "excellent organization and problem-solving skills",
+                    "rule_type": "PERMISSION",
+                    "agent": "applicant",
+                    "action": "possess excellent organization and problem-solving skills"
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates a wide range of skills and experience, indicating strong problem-solving abilities.",
+                "similarity_score": 0.375,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R008",
+                    "Extracted Rule": "You have an eye for the details.",
+                    "Keyword Detected": "eye",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "eye for details",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": ""
+                },
+                "status": "Pass",
+                "explanation": "The child document demonstrates attention to detail through its comprehensive list of software and skills.",
+                "similarity_score": 0.103,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            }
+        ],
+        {
+            "compliance_rate": 0.62,
+            "avg_similarity": 0.23
+        }
+    ],
+    [
+        [
+            {
+                "rule_details": {
+                    "Rule ID": "R001",
+                    "Extracted Rule": "MS SQL Server with T-SQL \u2013 minimum 2 plus years\u2019 experience",
+                    "Keyword Detected": "minimum",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "MS SQL Server, T-SQL, 2 plus years\u2019 experience",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess qualification"
+                },
+                "status": "Fail",
+                "explanation": "The child document describes experience with art tools and game development, but does not mention MS SQL Server or T-SQL.",
+                "similarity_score": 0.257,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R002",
+                    "Extracted Rule": "Experience with SQL Server 2008 R2 through 2017.",
+                    "Keyword Detected": "Experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "SQL Server 2008 R2, SQL Server 2017",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document does not mention any experience with SQL Server, as required.",
+                "similarity_score": 0.296,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R003",
+                    "Extracted Rule": "Visual Studuo + SSDT",
+                    "Keyword Detected": "",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "Visual Studio, SSDT",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess skills"
+                },
+                "status": "Fail",
+                "explanation": "The requirement \"Visual Studio + SSDT\" implies familiarity with Microsoft's development environment. The child document describes artistic skills and experience in Unity, Maya, Blender, Photoshop, and Zbrush; it doesn't mention Visual Studio or SSDT.",
+                "similarity_score": 0.165,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R004",
+                    "Extracted Rule": "SSIS experience",
+                    "Keyword Detected": "experience",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": "SSIS",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess experience"
+                },
+                "status": "Fail",
+                "explanation": "The child document does not mention SSIS (SQL Server Integration Services) experience.",
+                "similarity_score": 0.172,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "rule_details": {
+                    "Rule ID": "R005",
+                    "Extracted Rule": "Familiarity with .Net Core, Visual Studio, and Powershell for SQL Server and Azure SQL",
+                    "Keyword Detected": "Familiarity",
+                    "Requirement Type": "DESCRIPTIVE",
+                    "Required Data Mentioned": ".Net Core, Visual Studio, Powershell, SQL Server, Azure SQL",
+                    "rule_type": "",
+                    "agent": "applicant",
+                    "action": "possess familiarity"
+                },
+                "status": "Fail",
+                "explanation": "The child document demonstrates artistic skills but lacks any mention of .Net Core, Visual Studio, or Powershell for SQL Server/Azure SQL.",
+                "similarity_score": 0.225,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            }
+        ],
+        {
+            "compliance_rate": 0.0,
+            "avg_similarity": 0.22
+        }
+    ]
+]

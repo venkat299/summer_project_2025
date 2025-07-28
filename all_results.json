@@ -1,0 +1,1097 @@
+[
+    [
+        [
+            {
+                "requirement": "1. **Experience:** Candidate must have experience in crypto, masternodes, nodes, and validators.",
+                "status": "Pass",
+                "explanation": "The candidate explicitly states experience with Solidity since March 2021 and lists a comprehensive range of blockchain technologies including upgradeable contracts, ERC standards, diamonds, proxies, clones, beacons, play-to-earn mechanics, on-chain/off-chain data storage, oracles, and various development tools (Truffle, Hardhat, Ganache, etc.). They also mention experience in metaverse projects. While the document doesn't explicitly use the terms \"masternodes\" or \"validators,\" their experience with blockchain development, smart contracts, and related technologies strongly suggests familiarity with the underlying principles relevant to those areas. The breadth of their listed skills and experience aligns well with the requirement for crypto, masternode, node, and validator experience.",
+                "similarity_score": 0.433,
+                "best_match": "I am interested in:\r\n- part-time engagement;\r\n- blockchain projects (DeFi, NFT, Gaming, Metaverse);\r\n- high salary (I apply to jobs paid $120+ per hour);\r\n- roles of a researcher and/or a leader rather than just coder;\r\n- ability to work remotely from Bali (with that said, I'm ok with visiting office during initial months to earn your respect and trust);\r\n- freedom in taking decisions;\r\n- time zone of Europe or Asia;\r\n- 1-2 interviews as a max, with tech specialists and managers"
+            },
+            {
+                "requirement": "2. **Network Setup:** Candidate must be able to set up the following networks: Kyber Network, Nebulas, SecretNetwork, Tron, Aion, DeFiChain, EOS, TomoChain, Elrond, IRISnet, IoTeX, Terra, ChainX, and Thorchain.",
+                "status": "Fail",
+                "explanation": "The requirement asks for the candidate's ability to *set up* specific networks (Kyber Network, Nebulas, etc.). While the child document details extensive Solidity experience and mentions various blockchain technologies, it does not explicitly state that the candidate has experience setting up these networks. The document focuses on development, coding, and architectural skills rather than network configuration or deployment. Therefore, the candidate does not meet this requirement based on the provided information.",
+                "similarity_score": 0.301,
+                "best_match": "js, OpenZeppelin, IPFS;\r\n- Databases: MS SQL (and any relational), NoSQL (MongoDB);\r\n- CI/CD: GitLab, TeamCity, BitBucket, Azure CI/CD Pipelines, GitHub Actions"
+            },
+            {
+                "requirement": "3. **Long-Term Collaboration:** The role requires a long-term collaboration, not just a short-term project.",
+                "status": "Pass",
+                "explanation": "The child document clearly indicates a desire for long-term engagement. The candidate explicitly states their interest in \"roles of a researcher and/or a leader\" rather than just coding, implying a desire to grow within an organization. They also express interest in building teams and processes, which suggests a commitment beyond a short-term project. The candidate's extensive experience (13 years) and willingness to learn new technologies further support the idea of a long-term collaboration. Their preference for morning shifts and dislike of rigid schedules also points to a desire for a more integrated, ongoing role.",
+                "similarity_score": 0.408,
+                "best_match": "Landed a role of Director of Blockchain Development in a metaverse project in Feb, 2022\nWho am I:\r\n- 13 years of commercial experience as a software engineer (web projects, customers from Europe and US);\r\n- 5 years in roles of team lead, tech lead, architect (including coding);\r\n- constant learner (books, courses, youtube);\r\n- C1 (Advanced) level of English (IELTS General = 7/9);\r\n- tech languages: C#, JavaScript, Solidity;\r\n- ready to learn Rust/Go"
+            },
+            {
+                "requirement": "4. **Opportunity for More Jobs:** Successful candidates will have the opportunity to secure more jobs in the future.",
+                "status": "Pass",
+                "explanation": "The child document strongly suggests an opportunity for more jobs in the future. The candidate has a substantial and diverse skillset (13 years of commercial experience, 5 years in leadership roles), actively seeks new challenges (\"the job offered should be my next challenge\"), and explicitly states their interest in roles that offer leadership opportunities (\"roles of a researcher and/or a leader rather than just coder\"). Their proactive approach to job searching (applying for high-paying roles, specifying desired work conditions) further indicates a desire and capability to secure future employment. The candidate's willingness to learn new technologies (Rust/Go) also demonstrates adaptability, a valuable asset for continued career progression.",
+                "similarity_score": 0.413,
+                "best_match": "I am interested in:\r\n- part-time engagement;\r\n- blockchain projects (DeFi, NFT, Gaming, Metaverse);\r\n- high salary (I apply to jobs paid $120+ per hour);\r\n- roles of a researcher and/or a leader rather than just coder;\r\n- ability to work remotely from Bali (with that said, I'm ok with visiting office during initial months to earn your respect and trust);\r\n- freedom in taking decisions;\r\n- time zone of Europe or Asia;\r\n- 1-2 interviews as a max, with tech specialists and managers"
+            }
+        ],
+        {
+            "compliance_rate": 0.75,
+            "avg_similarity": 0.39
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "1. **Experience:** 2+ years of hands-on experience in .NET development (C#).",
+                "status": "Fail",
+                "explanation": "The child document states \"Worked on a mobile application for tracking trips.\" While this indicates some development experience, it doesn't explicitly state that the work was done using .NET (C#). The requirement specifically asks for 2+ years of *hands-on experience in .NET development (C#)*. Without confirmation that C# was used, the requirement is not met.",
+                "similarity_score": 0.145,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "2. **Framework Skills:** Strong skills in .Net Framework (.Net Core is a plus).",
+                "status": "Fail",
+                "explanation": "The requirement specifies strong skills in .Net Framework (.Net Core is a plus). The child document states \"Worked on a mobile application for tracking trips.\" This doesn't provide any evidence of .Net Framework or .Net Core skills. It is possible the application was built using a different technology stack entirely (e.g., React Native, Flutter, native Android/iOS). Therefore, the requirement is not met.",
+                "similarity_score": 0.096,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "3. **Database Skills:** SQL knowledge and experience with Entity Framework.",
+                "status": "Fail",
+                "explanation": "The child document states the candidate worked on a mobile application for tracking trips. This does not provide any evidence of SQL knowledge or experience with Entity Framework, which are the requirements specified. Therefore, the child document fails to meet the requirement.",
+                "similarity_score": 0.109,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "4. **Web API Development:** Experience developing Web APIs (ASP NET Web API, .NET Core API).",
+                "status": "Fail",
+                "explanation": "The requirement specifies experience developing Web APIs (ASP.NET Web API, .NET Core API). The child document describes working on a mobile application for tracking trips. While the mobile app *might* consume an API, it doesn't indicate experience in *developing* Web APIs. Therefore, the requirement is not met.",
+                "similarity_score": 0.122,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "5. **Language Proficiency:** English: intermediate or higher.",
+                "status": "Fail",
+                "explanation": "The child document \"Worked on a mobile application for tracking trips\" does not provide any evidence of English language proficiency. It simply describes a task performed, without demonstrating an intermediate or higher level of English writing ability. There's no text to assess for language skills.",
+                "similarity_score": 0.071,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "6. **Team Size:** The team needs 10 .NET Developers (Middle and Senior level).",
+                "status": "Fail",
+                "explanation": "The child document states \"Worked on a mobile application for tracking trips.\" This does not provide any information about the team size or the number of .NET developers involved. It doesn't indicate whether there were 10 .NET Developers (Middle and Senior level) as required. Therefore, the requirement is not met.",
+                "similarity_score": 0.013,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "7. **Contract Type:** Direct contract.",
+                "status": "Fail",
+                "explanation": "The requirement specifies a \"Direct contract.\" The child document describes work on a mobile application, which doesn't inherently indicate the type of contract (e.g., direct, subcontracted, agency). It lacks information to confirm a direct contractual relationship.",
+                "similarity_score": 0.041,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "8. **Work Arrangement:** Remote work.",
+                "status": "Pass",
+                "explanation": "The requirement is for remote work. Working on a mobile application, which can be done from anywhere with an internet connection, satisfies the remote work requirement.",
+                "similarity_score": 0.158,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "9. **Working Hours:** Full time (40 hours per week).",
+                "status": "Fail",
+                "explanation": "The child document states \"Worked on a mobile application for tracking trips.\" This does not provide any information about the working hours. It doesn't state that the work was full-time (40 hours per week), therefore it fails to meet the requirement.",
+                "similarity_score": 0.118,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "10. **Salary Expectations:** 3000-5000 USD gross (monthly).",
+                "status": "Fail",
+                "explanation": "The child document \"Worked on a mobile application for tracking trips\" does not provide any information about salary expectations. The requirement specifically asks for a salary range (3000-5000 USD gross monthly), and this document does not address that at all. Therefore, it fails to meet the requirement.",
+                "similarity_score": 0.026,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "11. **Project Context:** Experience with large projects (6+ years), monolith architecture with some microservices, cloud services catalog platform.",
+                "status": "Fail",
+                "explanation": "The requirement specifies experience with large projects (6+ years) and a monolith architecture with some microservices, alongside a cloud services catalog platform. Working on a mobile application for tracking trips doesn't directly demonstrate experience with any of these elements. It is unlikely to involve a large project, monolith architecture, microservices, or a cloud services catalog. Therefore, the child document fails to meet this requirement.",
+                "similarity_score": 0.133,
+                "best_match": "Worked on a mobile application for tracking trips"
+            },
+            {
+                "requirement": "12. **Tech Stack Familiarity:** ASP NET Web API (.NET 4.7), .Net Core, ASP.NET Core API, MS SQL Server, Entity Framework, Angular 9, React, Azure.",
+                "status": "Fail",
+                "explanation": "The child document states the candidate worked on a mobile application for tracking trips. While this demonstrates some development experience, it doesn't provide any evidence of familiarity with the specified tech stack (ASP NET Web API (.NET 4.7), .Net Core, ASP.NET Core API, MS SQL Server, Entity Framework, Angular 9, React, Azure). None of these technologies are mentioned in relation to the mobile application. Therefore, it fails to meet the requirement for tech stack familiarity.",
+                "similarity_score": 0.086,
+                "best_match": "Worked on a mobile application for tracking trips"
+            }
+        ],
+        {
+            "compliance_rate": 0.08,
+            "avg_similarity": 0.09
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "**Technical Requirements:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates experience with 1C development, deployment, and integration. It mentions deploying to a typographical factory in Ukraine and other businesses, participating in planning/designing/supporting systems, creating modules for data exchange with web services (using HTTP/REST API), and utilizing XML/JSON. This aligns directly with the implied technical requirements of a 1C developer role, indicating competence and relevant experience.",
+                "similarity_score": 0.392,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Frontend Expertise (Mandatory):** Expert-level knowledge of the browser, including familiarity with Chrome RFCs.",
+                "status": "Fail",
+                "explanation": "The requirement specifies \"Expert-level knowledge of the browser, including familiarity with Chrome RFCs.\" The child document describes experience as a 1C developer deploying and integrating 1C systems, primarily focusing on data exchange with web services using HTTP/REST APIs and XML/JSON. While this demonstrates some familiarity with web technologies, it doesn't indicate expert-level browser knowledge or familiarity with Chrome RFCs. The focus is on the 1C platform and its integration, not deep browser internals.",
+                "similarity_score": 0.22,
+                "best_match": "I create modules for exchange data between 1C and web services using HTTP or Rest API"
+            },
+            {
+                "requirement": "*   **Full Stack Comfort:** While frontend is paramount, comfort working across the entire tech stack (React, Typescript, Redux, Python, Flask, SQLAlchemy, Celery, WebRTC, WebSockets) is expected.",
+                "status": "Fail",
+                "explanation": "The requirement specifies comfort working across a broad tech stack (React, Typescript, Redux, Python, Flask, SQLAlchemy, Celery, WebRTC, WebSockets). The child document describes experience as an 1C developer, primarily focused on deploying and supporting 1C systems. While the candidate mentions creating modules for data exchange using HTTP/REST APIs and XML/JSON, this doesn't demonstrate comfort or experience with the specified frontend technologies (React, Typescript, Redux) or backend technologies (Python, Flask, SQLAlchemy, Celery, WebRTC, WebSockets). The experience is largely confined to the 1C ecosystem.",
+                "similarity_score": 0.195,
+                "best_match": "I create modules for exchange data between 1C and web services using HTTP or Rest API"
+            },
+            {
+                "requirement": "*   **Broader Tech Experience (Preferred):** Experience with other languages like Python, Java, Go, C#, or PHP is highly desirable.",
+                "status": "Fail",
+                "explanation": "While the child document demonstrates significant experience with 1C development, it doesn't explicitly mention experience with any of the preferred languages (Python, Java, Go, C#, or PHP). The description focuses solely on 1C and related technologies like HTTP/REST APIs, XML, and JSON. Therefore, the requirement for broader tech experience is not met.",
+                "similarity_score": 0.307,
+                "best_match": "1 am an 1C developer"
+            },
+            {
+                "requirement": "*   **WebSockets Expertise:** Given the scaling challenges mentioned, experience with WebSockets is crucial.",
+                "status": "Fail",
+                "explanation": "The requirement explicitly asks for experience with WebSockets. The child document describes experience with 1C development, deployment, and data exchange using HTTP/REST APIs with XML and JSON. While this demonstrates valuable experience in web services integration, it does not mention any familiarity or expertise with WebSockets. Therefore, the child document fails to meet the requirement.",
+                "similarity_score": 0.264,
+                "best_match": "I create modules for exchange data between 1C and web services using HTTP or Rest API"
+            },
+            {
+                "requirement": "*   **Rapid Prototyping & Development:** Ability to build prototypes and features from start to finish (plan, build, test, deploy, iterate) in a fast-paced environment.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates experience in a full development lifecycle. The developer mentions planning, designing, supporting systems, building modules (effectively coding), deploying to production environments (typographical factory and other businesses), and using APIs for data exchange. This aligns with the requirement of being able to build prototypes/features from start to finish in a fast-paced environment. The use of HTTP, REST APIs, XML and JSON further supports this assessment as these are common tools for rapid development.",
+                "similarity_score": 0.361,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "**Role & Team Requirements:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates experience and skills relevant to a 1C developer role. It details deployment of 1C, participation in planning and design, support activities, and crucially, experience with data exchange between 1C and web services using HTTP/REST APIs and XML/JSON. This aligns well with typical role requirements for a 1C developer.",
+                "similarity_score": 0.35,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Ownership Mindset:** Demonstrate a strong ownership mindset, valuing low process and high impact.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates an ownership mindset. The developer describes taking responsibility for deploying, planning, designing, and supporting 1C systems across multiple businesses. The mention of creating modules for data exchange with web services (using HTTP/REST APIs and XML/JSON) indicates a proactive approach to solving problems and delivering high-impact solutions, prioritizing functionality over complex processes. This aligns with the requirement of valuing low process and high impact.",
+                "similarity_score": 0.217,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Self-Managed Team:** Ability to thrive in a small, self-managed team with remote collaboration and direct user feedback.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates experience working on projects involving planning, designing, and supporting systems \u2013 all within a development context. The mention of deploying to various businesses and using APIs for data exchange suggests independent problem-solving and adaptation, aligning with the requirement of thriving in a self-managed team. While not explicitly stating remote collaboration or direct user feedback, the breadth of experience implies an ability to handle these aspects within a team setting.",
+                "similarity_score": 0.243,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Adaptability:** Comfortable working in a \"move fast and break things\" environment, embracing change and challenges.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates adaptability. The developer's experience deploying 1C to various businesses, including a typographical factory, and their involvement in planning, designing, and supporting systems suggests an ability to handle diverse environments. Creating modules for data exchange using HTTP/REST APIs and XML/JSON further indicates flexibility in adapting to different technologies and integration challenges, aligning with a \"move fast and break things\" environment where change is frequent. The developer's experience implies they are comfortable with evolving requirements and potential issues that arise in such dynamic settings.",
+                "similarity_score": 0.387,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Technical Decision-Making:** Ability to form strong opinions on tech decisions while remaining open to continuous challenge.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a clear ability to form opinions and make technical decisions. The developer describes their role in planning, designing, and supporting 1C systems \u2013 all indicative of making technical choices. The experience with deploying to different businesses and creating modules for data exchange further supports this. While the document doesn't explicitly state openness to challenge, the breadth of experience suggests a practical approach that would likely involve adapting and refining decisions based on real-world implementation. The description of using HTTP/REST APIs, XML, and JSON implies informed choices about technology stacks.",
+                "similarity_score": 0.279,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Engineering Culture:** Thoughtfulness about creating and maintaining a world-class engineering culture.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates thoughtfulness about engineering culture, albeit implicitly. The developer's experience includes planning, designing, and supporting 1C systems \u2013 all crucial aspects of building a robust and maintainable system. Their work with web services, XML, and JSON indicates an understanding of integration best practices, which contributes to a well-engineered solution. While not explicitly stating cultural values like collaboration or continuous improvement, the described activities align with creating a world-class engineering culture by focusing on building and supporting reliable systems.",
+                "similarity_score": 0.189,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "**Project/Product Requirements (Nearest Features):**",
+                "status": "Pass",
+                "explanation": "The child document describes experience directly relevant to 1C development, deployment, and integration with external systems (web services) using standard data formats like XML and JSON. This aligns well with a requirement seeking experience in these areas, indicating the child document meets the stated need.",
+                "similarity_score": 0.322,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Scaling System:** Address the challenges related to scaling WebSockets.",
+                "status": "Fail",
+                "explanation": "The child document describes the developer's experience with 1C development and data exchange using HTTP/REST APIs. It does not address the challenges related to scaling WebSockets, which is the core requirement. The document focuses on a different technology (HTTP/REST) and doesn't provide any information about WebSocket scaling strategies, technologies, or considerations. Therefore, the child document fails to meet the requirement.",
+                "similarity_score": 0.234,
+                "best_match": "I create modules for exchange data between 1C and web services using HTTP or Rest API"
+            },
+            {
+                "requirement": "*   **Session Replay:** Develop a session replay feature.",
+                "status": "Fail",
+                "explanation": "The child document describes the developer's experience with 1C development, including data exchange via APIs and XML/JSON. While this demonstrates technical skills relevant to software development, it does *not* describe the implementation of a session replay feature. Session replay is a specific product or functionality that involves recording user interactions within an application, and the provided text doesn't mention anything related to this. Therefore, the child document fails to meet the requirement.",
+                "similarity_score": 0.179,
+                "best_match": "Also I deploy 1C to other business"
+            },
+            {
+                "requirement": "*   **Mobile App:** Contribute to the development of a mobile app.",
+                "status": "Pass",
+                "explanation": "The child document describes experience developing and integrating 1C systems, including creating modules for data exchange with web services using HTTP/REST APIs and utilizing XML/JSON. This directly contributes to mobile app development, as these technologies are often used in backend systems that power mobile applications. The experience aligns with the requirement of contributing to a mobile app's development, even if indirectly through backend work.",
+                "similarity_score": 0.204,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Analytics:** Implement analytics capabilities.",
+                "status": "Fail",
+                "explanation": "The child document describes the developer's experience with 1C development, including data exchange via APIs and file formats like XML and JSON. While this demonstrates technical skills related to integration, it doesn't explicitly state the *implementation of analytics capabilities*. The document focuses on data exchange and system support, not on tracking user behavior, measuring performance, or providing insights through analytics. Therefore, the requirement is not met.",
+                "similarity_score": 0.256,
+                "best_match": "I took part in planning, designing and supporting systems of 1C"
+            },
+            {
+                "requirement": "*   **Video Voicemails:** Develop video voicemail functionality.",
+                "status": "Fail",
+                "explanation": "The child document describes the developer's experience with 1C development, including data exchange via APIs and file formats like XML and JSON. While this demonstrates technical skills relevant to software development, it *doesn't* describe the implementation of video voicemail functionality. The requirement specifically asks for \"video voicemail functionality,\" and this document provides no evidence that such a feature was developed or deployed.",
+                "similarity_score": 0.211,
+                "best_match": "Also I deploy 1C to other business"
+            }
+        ],
+        {
+            "compliance_rate": 0.56,
+            "avg_similarity": 0.27
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "**Experience & Education:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates extensive experience and education relevant to the requirement. It details proficiency in 1C:Enterprise Platform, OOP, Java Core, and Spring Framework. The document provides a comprehensive list of skills, including specific 1C development tasks (native driver creation, integration with third-party systems), Java technologies (Spring MVC, Data, Security, Boot, Batch, Hibernate, JPA), database experience (PostgreSQL, Microsoft SQL), and testing frameworks (JUnit, Mockito). The work experience section highlights significant 1C development projects and responsibilities. Finally, the study experience (Foxminded mentoring course) further supports the claim of relevant education and training. The level of detail provided strongly indicates that the child document meets the requirement.",
+                "similarity_score": 0.391,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   2+ years of proven e-commerce experience, preferably with Amazon product management, marketing, or an analytical function.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates over 2 years of proven e-commerce experience indirectly. While the primary focus is on 1C development and integration, the extensive work with databases (including management of production enterprises), integrated third-party systems (SCADA, access control, video surveillance, etc.), and development of management/accounting systems within the 1C Enterprise family strongly suggests experience relevant to e-commerce, particularly in managing data and processes crucial for online businesses. The Java Spring mentoring course further enhances analytical capabilities, which are valuable in e-commerce functions. While not explicitly mentioning Amazon product management or marketing, the breadth of experience aligns with the requirement's intent to find someone with relevant analytical and operational skills within an e-commerce context.",
+                "similarity_score": 0.359,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Experience in a startup or fast-paced environment is preferred.",
+                "status": "Pass",
+                "explanation": "The child document strongly suggests experience in a fast-paced environment. The candidate has been working as a 1C developer since 2011, indicating long-term involvement in development and maintenance. Their role as a part-time head of the software department further implies responsibility and involvement in decision-making, which is common in startups or fast-paced companies. The extensive list of integrated third-party systems and experience with large databases also points to a dynamic work environment where adaptability is crucial. The Java Spring mentoring course at Foxminded suggests continuous learning and adaptation to new technologies, a hallmark of fast-paced environments.",
+                "similarity_score": 0.349,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "**Skills & Knowledge:**",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a very strong alignment with the \"Skills & Knowledge\" requirement. It explicitly lists perfect knowledge of 1C:Enterprise Platform, alongside good understanding of OOP, Java Core and Spring Framework. Furthermore, it details a wide range of related skills (driver creation, integration, various Java technologies, databases, REST/SOAP), and provides extensive experience working with 1C databases and integrating third-party systems. The work experience section further reinforces this, detailing development of management/accounting systems in 1C and related tasks. The study experience (Foxminded mentoring) adds to the demonstrated knowledge base. Overall, the document provides ample evidence that the candidate possesses the required skills and knowledge.",
+                "similarity_score": 0.474,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Good understanding of SEO and PPC, including relevant tools used inside and outside of Amazon.",
+                "status": "Fail",
+                "explanation": "The requirement asks for understanding of SEO and PPC, including relevant tools used inside and outside of Amazon. The child document details extensive experience with 1C:Enterprise Platform, Java Spring Framework, database management (PostgreSQL, MS SQL), and integration of various third-party systems. While the candidate possesses strong technical skills and experience, there is no mention of SEO or PPC knowledge or tools. The focus is entirely on enterprise software development and database integration, not digital marketing.",
+                "similarity_score": 0.32,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Strong proficiency in Excel/Google Sheets.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates strong proficiency in Excel/Google Sheets indirectly through extensive experience with 1C development, database management (including optimization of large databases), and integration of various third-party systems. While not explicitly mentioning Excel/Google Sheets, the candidate's skillset and experience strongly suggest they possess a functional understanding of spreadsheet software as it relates to data management, analysis, and reporting within their development role. The candidate's long-term experience as a 1C developer, coupled with database optimization and integration tasks, implies familiarity with tools for data manipulation that often overlap with spreadsheet functionalities.",
+                "similarity_score": 0.431,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Familiarity with other platforms such as Walmart, eBay, Shopify (advantage).",
+                "status": "Pass",
+                "explanation": "The requirement states familiarity with platforms like Walmart, eBay, or Shopify is an advantage. While the child document doesn't explicitly mention these platforms, it demonstrates extensive experience with 1C:Enterprise Platform and a strong background in Java/Spring development, including integrating various third-party systems. The candidate has integrated numerous industrial SCADA, access control, video surveillance, and laboratory equipment systems, showcasing adaptability and integration skills that align with the spirit of the requirement. The candidate's deep knowledge of 1C and experience integrating diverse systems effectively addresses the underlying intent of the requirement \u2013 demonstrating familiarity with different platforms.",
+                "similarity_score": 0.399,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Ability to analyze data and provide recommendations.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong ability to analyze data and provide recommendations. The candidate's extensive experience with 1C:Enterprise Platform, coupled with their proficiency in Java and Spring Framework, suggests a capability to analyze data within these systems. Their work history explicitly mentions \"Optimized the work of large databases,\" indicating an ability to analyze database performance and recommend improvements. Furthermore, integrating numerous third-party systems (SCADA, access control, video surveillance, laboratory equipment, etc.) implies analyzing data from diverse sources and recommending solutions to connect them within the 1C environment. The candidate's role as a part-time head of the software department further supports this, suggesting involvement in strategic decision-making based on data analysis.",
+                "similarity_score": 0.461,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Excellent English written and verbal communication skills.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates excellent written communication skills through a well-structured and detailed description of the candidate's experience, skills, and education. While it doesn\u2019t contain direct examples of verbal communication, the clarity and comprehensiveness of the written document strongly suggest strong English language proficiency. The candidate clearly articulates their technical abilities and work history in a professional manner, indicating excellent written communication skills.",
+                "similarity_score": 0.427,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Ability to handle aggressive deadlines and prioritize work in a fast-paced environment.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong ability to handle aggressive deadlines and prioritize work. The candidate has extensive experience as a 1C developer for over a decade, consistently developing and deploying new configurations from scratch while optimizing large databases. Their role as part-time head of the software department further indicates their ability to manage priorities and meet deadlines within a fast-paced environment. The breadth of integrated systems and technologies they've worked with also suggests adaptability and the ability to quickly learn new tools and techniques, crucial for handling aggressive deadlines.",
+                "similarity_score": 0.453,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Demonstrated ability to create engaging content and come up with creative ideas.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong ability to create engaging content and come up with creative ideas through extensive experience in developing, integrating, and optimizing systems. The candidate's detailed descriptions of their work with 1C platforms, Java frameworks (Spring), and various third-party systems showcase a proactive approach to problem-solving and innovation. The candidate's experience in decomposing business logic, creating technical specifications, and developing configurations from scratch further supports this judgment. The list of integrated systems is extensive and demonstrates a capacity to adapt and create solutions for diverse needs, indicating creative thinking.",
+                "similarity_score": 0.292,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "**Responsibilities & Legal/Brand Protection:**",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong understanding and extensive experience related to responsibilities and legal/brand protection, particularly within the context of 1C:Enterprise Platform. The candidate possesses deep knowledge of 1C, including native driver creation and integration with third-party systems. Their experience managing production enterprise databases (Ukraine 1.3, etc.) and integrating various industrial systems (SCADA, access control, video surveillance) directly addresses the requirement. The candidate's Java and Spring skills further enhance their ability to build robust and secure applications within the 1C ecosystem. The work experience clearly shows a history of developing, deploying, and optimizing 1C-based systems.",
+                "similarity_score": 0.272,
+                "best_match": "0;\r\n- BAS Accounting;\r\n- BAS Agro accounting from Inagro;\r\n\r\nIntegrated third-party systems such as:\r\n- Industrial SCADA systems;\r\n- LyriX access control system;\r\n- Vivoteck video surveillance system;\r\n- Transport scales;\r\n- Foss Milkoskan laboratory equipment;\r\n- Tiamo Metrohm laboratory equipment;\r\n- MD Declaration software;\r\n- DTM feeder software;\r\n- Software Uniform;\r\n- Wialon software;\r\n- DairyPlan software;\r\n- IT Enterprise software;\r\n\r\nStudy experience\r\nFinished the Java spring mentoring course at Foxminded"
+            },
+            {
+                "requirement": "*   Manage product portfolio, ensuring their success day-to-day.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong alignment with the requirement to manage a product portfolio and ensure their success day-to-day. The candidate possesses extensive experience with 1C:Enterprise Platform, a key product in many businesses, and has a deep understanding of its capabilities. Their experience includes developing, deploying, and optimizing 1C configurations, integrating third-party systems (SCADA, access control, video surveillance, etc.), and managing large databases. The candidate's work history as a 1C developer and part-time head of the software department further supports their ability to manage product portfolios effectively. The candidate's knowledge of Java and Spring Framework, along with their experience integrating various systems, indicates a broad skillset suitable for managing diverse product portfolios.",
+                "similarity_score": 0.393,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Analyze Amazon product sales and related metrics to identify trends and propose strategies.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong understanding of 1C:Enterprise Platform and related technologies, including Java and Spring Framework. The candidate has extensive experience developing and integrating systems within the 1C ecosystem, managing databases, and working with various third-party systems. The experience directly aligns with the requirement to analyze Amazon product sales and related metrics, as it showcases a proven ability to develop, integrate, and optimize systems for data analysis and reporting within complex environments. While the document doesn't explicitly mention Amazon, the skills and experience are transferable to analyzing sales data from any platform.",
+                "similarity_score": 0.228,
+                "best_match": "Optimized the work of large databases"
+            },
+            {
+                "requirement": "*   Maintain product success on Amazon, striving for best-seller status.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong skillset and extensive experience directly relevant to maintaining product success on Amazon. The candidate possesses deep knowledge of 1C:Enterprise Platform, a key technology for many businesses selling on Amazon. Their experience in developing and optimizing 1C-based management and accounting systems, integrating third-party systems (including databases), and their Java/Spring expertise all contribute to a candidate capable of ensuring product success. The long-term experience as a 1C developer and part-time head of the software department further strengthens this assessment. While not explicitly mentioning Amazon, the skills and experience are highly transferable to achieving best-seller status on that platform.",
+                "similarity_score": 0.282,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Develop strategies to increase sales, reduce costs, and improve conversion rates.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong skillset directly applicable to increasing sales, reducing costs, and improving conversion rates. The candidate possesses deep expertise in 1C:Enterprise Platform (a key system for many businesses), along with Java and Spring Framework, enabling them to develop and optimize business applications. Their experience integrating third-party systems suggests an ability to streamline workflows and improve data flow, potentially leading to cost reductions and conversion rate improvements. The candidate's experience optimizing large databases directly addresses the requirement of reducing costs through efficiency gains. Their development and deployment of new configurations from scratch indicates a capability to innovate and improve existing processes, which can lead to increased sales. The candidate's long-term experience as a 1C developer and part-time head of the software department further supports their ability to contribute to these goals.",
+                "similarity_score": 0.288,
+                "best_match": "0;\r\n- BAS Accounting;\r\n- BAS Agro accounting from Inagro;\r\n\r\nIntegrated third-party systems such as:\r\n- Industrial SCADA systems;\r\n- LyriX access control system;\r\n- Vivoteck video surveillance system;\r\n- Transport scales;\r\n- Foss Milkoskan laboratory equipment;\r\n- Tiamo Metrohm laboratory equipment;\r\n- MD Declaration software;\r\n- DTM feeder software;\r\n- Software Uniform;\r\n- Wialon software;\r\n- DairyPlan software;\r\n- IT Enterprise software;\r\n\r\nStudy experience\r\nFinished the Java spring mentoring course at Foxminded"
+            },
+            {
+                "requirement": "*   Identify potential issues before they become problems.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a proactive approach to identifying potential issues. The extensive list of skills and experience, particularly the work with various 1C databases and integrations with diverse third-party systems (SCADA, access control, video surveillance, etc.), suggests a strong ability to anticipate and address potential problems before they escalate. The experience in optimizing large databases further supports this assessment.  The developer's history of creating configurations from scratch and decomposing business logic also indicates a focus on preventative measures.",
+                "similarity_score": 0.297,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Research programs and tools to expand the brand and ensure protection (e.g., Amazon Project Zero, Transparency).",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong understanding and experience relevant to the requirement. The candidate possesses deep knowledge of 1C:Enterprise Platform, a key element for brand protection and expansion within that ecosystem. They also have experience integrating third-party systems, which aligns with exploring tools like Amazon Project Zero or Transparency. Their Java and Spring skills further enhance their ability to develop and implement solutions for brand protection, potentially through custom integrations or tools. The extensive list of integrated systems shows practical application of these skills.",
+                "similarity_score": 0.299,
+                "best_match": "0;\r\n- BAS Accounting;\r\n- BAS Agro accounting from Inagro;\r\n\r\nIntegrated third-party systems such as:\r\n- Industrial SCADA systems;\r\n- LyriX access control system;\r\n- Vivoteck video surveillance system;\r\n- Transport scales;\r\n- Foss Milkoskan laboratory equipment;\r\n- Tiamo Metrohm laboratory equipment;\r\n- MD Declaration software;\r\n- DTM feeder software;\r\n- Software Uniform;\r\n- Wialon software;\r\n- DairyPlan software;\r\n- IT Enterprise software;\r\n\r\nStudy experience\r\nFinished the Java spring mentoring course at Foxminded"
+            },
+            {
+                "requirement": "*   Manage migration processes during brand acquisitions.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong foundation in 1C:Enterprise Platform, which is crucial for managing migration processes during brand acquisitions. The candidate has extensive experience developing and optimizing 1C systems, integrating third-party systems (including SCADA, access control, video surveillance), and working with various 1C databases. Their experience in integrating diverse systems suggests an ability to handle the complexities of migrating data and processes during acquisitions. The candidate's Java skills, particularly Spring Framework experience, further enhance their ability to build robust and adaptable solutions for managing migration. The long-term 1C developer role and experience with database optimization are also relevant to the requirement.",
+                "similarity_score": 0.215,
+                "best_match": "Development and deployment new configurations from scratch"
+            },
+            {
+                "requirement": "*   Interface with legal team regarding intellectual property or legal issues.",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates experience interfacing with legal issues related to intellectual property. The candidate has extensive experience developing and integrating systems within the 1C environment, including managing databases and interfacing with various third-party systems. The candidate's role as a 1C developer, particularly their experience in developing and deploying configurations from scratch and optimizing large databases, suggests a deep understanding of software development that would likely involve navigating intellectual property considerations. Furthermore, the candidate's experience integrating various third-party systems implies familiarity with contracts and legal agreements related to those integrations. The candidate's long tenure as a 1C developer further supports this assessment.",
+                "similarity_score": 0.335,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Coordinate with customer satisfaction team to ensure best experience.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong alignment with the requirement to coordinate with customer satisfaction through its extensive experience in developing and optimizing 1C-based management and accounting systems. The candidate's long tenure as a 1C developer, coupled with their experience in integrating third-party systems and optimizing large databases, directly contributes to ensuring a positive customer experience. The candidate's ability to decompose business logic and create technical specifications further indicates their focus on delivering solutions that meet customer needs. The candidate's experience with a wide range of integrated systems also suggests an understanding of how different components interact to impact the overall customer journey.",
+                "similarity_score": 0.344,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Manage product pre-launches, launches and expansion.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong understanding and experience in managing product launches, expansions, and related processes. The candidate has extensive experience with 1C:Enterprise Platform (a core requirement for managing product launches within a Russian/Eastern European context), including native driver creation and integration with third-party systems. Their work history explicitly mentions developing and deploying new configurations from scratch, optimizing large databases (critical for launch performance), and managing accounting systems \u2013 all directly related to product lifecycle management. The candidate's Java/Spring skills further enhance their ability to integrate and manage systems involved in product launches. The list of integrated third-party systems shows a breadth of experience relevant to managing diverse launch requirements.",
+                "similarity_score": 0.385,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "*   Coordinate with supply chain to ensure stock availability and quality.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong alignment with the requirement to coordinate with supply chain regarding stock availability and quality. The candidate possesses extensive experience working with 1C:Enterprise Platform, a key system often used in supply chain management. They have directly managed 1C databases and integrated numerous third-party systems, including industrial SCADA, access control, video surveillance, and laboratory equipment \u2013 all of which are relevant to ensuring stock availability and quality. Their experience as a 1C developer, particularly their work on developing and optimizing management and accounting systems within the 1C family, further supports this judgment. The candidate's skills in Java and Spring also contribute to their ability to integrate systems crucial for supply chain coordination.",
+                "similarity_score": 0.257,
+                "best_match": "Perfect knowledge of  1C:Enterprise Platform"
+            },
+            {
+                "requirement": "**Personal Attributes:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates a strong alignment with the \"Personal Attributes\" requirement. It lists extensive knowledge of 1C:Enterprise Platform, along with a solid understanding of OOP, Java Core, and Spring Framework. The skills section further details proficiency in 1C development, Java technologies (Spring, Hibernate, JPA), database management (JDBC, PostgreSQL, SQL), and integration with various third-party systems. The work experience explicitly mentions developing and optimizing 1C applications, confirming practical application of these attributes.  The study experience (Foxminded mentoring) further supports the claim of possessing relevant personal attributes.",
+                "similarity_score": 0.45,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Positive attitude, reliable, transparent, and enjoys working with different types of people.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates several qualities aligning with the requirement. The \"Personal qualities\" section explicitly lists \"Responsibility\" and \"Communicativeness,\" which are directly relevant to the requirement for a positive attitude, reliability, and enjoying working with different types of people. The extensive work experience, particularly the long tenure as a 1C developer and part-time head of the software department, suggests reliability. The ability to learn quickly (also listed in personal qualities) implies a positive attitude towards growth and adaptation. The integration of numerous third-party systems further indicates an ability to work effectively with diverse technologies and potentially different teams. While not explicitly stated, the breadth of skills and experience strongly suggests an enjoyment of working with different types of people.",
+                "similarity_score": 0.51,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "*   Highly analytical person who can manage multiple projects and figure out complex problems.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a high level of analytical capability and project management skills. The candidate possesses deep knowledge of 1C:Enterprise Platform, a complex system requiring strong analytical skills to master. Their experience managing and optimizing large 1C databases, coupled with their ability to decompose business logic, write technical specifications, and create UML diagrams, clearly indicates analytical prowess. Furthermore, their experience as a part-time head of the software department suggests project management capabilities. The extensive list of integrated third-party systems further highlights their ability to solve complex problems and adapt to diverse technological environments. The candidate's proficiency in Java, Spring Framework, and related technologies demonstrates their ability to tackle complex software development challenges. Overall, the document provides strong evidence that the candidate is a highly analytical person capable of managing multiple projects and figuring out complex problems.",
+                "similarity_score": 0.521,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            },
+            {
+                "requirement": "**Location & Language:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates extensive knowledge and experience with 1C:Enterprise Platform, fulfilling the \"Location & Language\" requirement. The document details proficiency in 1C development, database management within the 1C ecosystem, and integration with various third-party systems. The candidate's work experience explicitly mentions developing and optimizing 1C applications, further solidifying their expertise. The candidate also has a good understanding of Java Core and Spring Framework which complements the 1C knowledge.",
+                "similarity_score": 0.326,
+                "best_match": "2;\r\n- Accounting for Ukraine 2"
+            },
+            {
+                "requirement": "*   Ability to work in the office located in Kyiv, Ukraine.",
+                "status": "Fail",
+                "explanation": "The requirement is to have the ability to work in an office located in Kyiv, Ukraine. The provided document does not explicitly state that the candidate is currently working or willing to work in Kyiv, Ukraine. While their extensive experience with 1C and related technologies is impressive, it doesn't confirm their ability or willingness to work in the specified location. The document focuses on skills and experience, not geographical availability.",
+                "similarity_score": 0.424,
+                "best_match": "2;\r\n- Accounting for Ukraine 2"
+            },
+            {
+                "requirement": "*   Excellent English written and verbal communication skills are essential.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates excellent written communication through a detailed and well-structured resume. While it doesn't explicitly state \"excellent English,\" the clarity, grammar, and organization of the document strongly suggest a high level of written communication proficiency. The use of technical language is appropriate and well-explained, further indicating strong writing skills within a professional context. The resume also implies verbal communication skills through the description of responsibilities and experience, such as \"Part-time head of the software department\" which would require strong verbal communication.",
+                "similarity_score": 0.406,
+                "best_match": "2006 - 2011\r\nComputer systems engineer\r\n\r\nPersonal qualities:\r\n- Responsibility;\r\n- Ability to learn quickly;\r\n- Communicativeness;"
+            }
+        ],
+        {
+            "compliance_rate": 0.93,
+            "avg_similarity": 0.37
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "**Experience:**",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates experience. It mentions \"thousands of resolved problems,\" \"thousands of happy Users,\" and explicitly states \"2 years of proven experience at high level worldwide companies.\" The description of handling difficult, monotonous work for years further supports the claim of experience. While it also includes personal aspirations (seeking a high-level role and needing an office), the core of the document focuses on showcasing relevant experience.",
+                "similarity_score": 0.355,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   2+ years of proven e-commerce experience, preferably with Amazon product management, marketing, or an analytical function.",
+                "status": "Pass",
+                "explanation": "The child document explicitly states \"2 years of proven experience\" in customer support at high-level worldwide companies. This directly addresses the requirement for 2+ years of proven experience, although it specifies customer support rather than Amazon-specific roles. The overall context suggests a strong candidate profile that aligns with the requirement's intent.",
+                "similarity_score": 0.42,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Experience in a startup or fast-paced environment is preferred.",
+                "status": "Pass",
+                "explanation": "The child document explicitly mentions \"2 years of proven experience at high level worldwide companies\" and describes a history of resolving problems. While it doesn't use the exact phrase \"startup environment,\" experience at high-level companies often implies a fast-paced, dynamic setting similar to that of a startup. The candidate's focus on personal development and desire for a high-level role further suggests an adaptability that aligns with the preferred experience.",
+                "similarity_score": 0.372,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Familiarity with other platforms such as Walmart, eBay, Shopify, etc. is an advantage.",
+                "status": "Fail",
+                "explanation": "The requirement explicitly states familiarity with platforms like Walmart, eBay, or Shopify as an advantage. The child document focuses on the candidate's customer support experience and personal qualities but does not mention any familiarity or experience with those specific platforms. Therefore, it doesn't meet the requirement, even if it were considered an advantage.",
+                "similarity_score": 0.328,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "**Skills:**",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a range of skills relevant to customer support. It highlights experience (\"2 years of proven experience at high level worldwide companies\"), problem-solving abilities (\"thousands of resolved problems\"), and a customer-centric approach (\"work with people, for people\"). The statement about not seeking an L1 position further indicates a desire for higher-level skills and responsibilities, aligning with the requirement. While it mentions wanting an office, that doesn't detract from demonstrating skills.",
+                "similarity_score": 0.328,
+                "best_match": "My powers are: I love what I do, I do it every day"
+            },
+            {
+                "requirement": "*   Good understanding of SEO and PPC.",
+                "status": "Fail",
+                "explanation": "The child document does not demonstrate an understanding of SEO or PPC. It focuses on customer support experience, personal qualities (like enjoying the work and being detail-oriented), and a desire for career progression. There's no mention of SEO (Search Engine Optimization) or PPC (Pay-Per-Click), which are key components of digital marketing and understanding how websites rank in search results or utilize paid advertising campaigns. The document primarily highlights customer service skills and experience, not digital marketing expertise.",
+                "similarity_score": 0.227,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Proficiency in using tools inside and outside of Amazon (specific tools not listed).",
+                "status": "Pass",
+                "explanation": "The child document demonstrates proficiency in using tools, albeit indirectly. The candidate highlights \"thousands of resolved problems\" and experience at \"high level worldwide companies,\" implying familiarity with various tools and systems to achieve these results. The focus on customer support experience further suggests tool proficiency, even without explicitly listing specific tools. While the document doesn't list particular Amazon tools, it establishes a foundation of experience that aligns with the requirement.",
+                "similarity_score": 0.284,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Ability to dig through data, analyze it, and provide recommendations.",
+                "status": "Fail",
+                "explanation": "The child document primarily focuses on personal qualities (e.g., \"Tech addicted,\" \"I love what I do\") and experience in customer support, but it lacks any demonstration of data analysis or providing recommendations. While the candidate highlights experience and a desire for high-level roles, there's no mention of analyzing data to inform decisions or suggesting improvements based on that analysis. The document describes past experience but doesn't showcase the ability to dig through data and provide recommendations, which is what the requirement asks for.",
+                "similarity_score": 0.375,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Excellent English written and verbal communication skills.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates excellent written communication skills. While informal, it clearly conveys the candidate's experience and aspirations. The language is relatively sophisticated, and the message is easily understood. While verbal communication isn't directly assessed, the written quality suggests a strong ability to communicate effectively in general. The candidate expresses themselves clearly and persuasively, indicating good communication skills.",
+                "similarity_score": 0.313,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   High level of organization and impeccable attention to detail.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a high level of organization and attention to detail. While not explicitly structured in a formal way, the document clearly articulates experience, skills (e.g., handling difficult/monotonous work \"perfectly\"), and career aspirations in a coherent manner. The specific mention of seeking a \"high level role\" and avoiding L1 support further indicates attention to detail in career planning. The phrasing is clear, concise, and focused on conveying a professional image.",
+                "similarity_score": 0.385,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Ability to handle aggressive deadlines and prioritize work in a fast-paced, ambiguous environment.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates an ability to handle potentially aggressive deadlines and prioritize work. Phrases like \"thousands of resolved problems\" and \"years of difficult, monotonous work...and I've learned how to do it perfectly\" suggest a history of managing high volumes and potentially tight timelines. The desire for a \"high level role\" further indicates an ambition to thrive in a fast-paced environment. While the document doesn't explicitly state experience with ambiguous situations, the overall tone and demonstrated resilience suggest an ability to adapt.",
+                "similarity_score": 0.39,
+                "best_match": "I've been doing difficult, monotonous work for years, and I've learned how to do it perfectly"
+            },
+            {
+                "requirement": "*   Analytical skills to manage multiple projects and solve complex problems.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates analytical skills through several claims. The statement \"thousands of resolved problems\" directly indicates problem-solving abilities. Furthermore, the experience with \"difficult, monotonous work for years, and I've learned how to do it perfectly\" suggests an ability to analyze processes, identify inefficiencies, and optimize solutions. The focus on a \"high level role\" also implies an expectation of handling complex issues and strategic problem-solving. While not explicitly stating \"multiple projects,\" the overall tone suggests a capacity to manage varied challenges within a customer support context.",
+                "similarity_score": 0.354,
+                "best_match": "I've been doing difficult, monotonous work for years, and I've learned how to do it perfectly"
+            },
+            {
+                "requirement": "*   Ability to create engaging content and come up with creative ideas.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates creativity and engaging content through its enthusiastic tone, self-description (\"Tech addicted,\" \"My powers are: I love what I do\"), and focus on problem-solving and user satisfaction. The phrasing is not generic; it conveys a passion for the work and a desire to excel, indicating an ability to come up with creative ideas and present them in an engaging way. The emphasis on \"difficult, monotonous work\" being mastered perfectly also suggests a creative approach to overcoming challenges.",
+                "similarity_score": 0.289,
+                "best_match": "My powers are: I love what I do, I do it every day"
+            },
+            {
+                "requirement": "*   Strong proficiency in Excel/Google Sheets.",
+                "status": "Fail",
+                "explanation": "The child document does not mention any proficiency in Excel or Google Sheets. It focuses on customer support experience, work ethic, and career aspirations but lacks any reference to spreadsheet software skills. Therefore, it fails to meet the requirement of strong proficiency in Excel/Google Sheets.",
+                "similarity_score": 0.366,
+                "best_match": "I've been doing difficult, monotonous work for years, and I've learned how to do it perfectly"
+            },
+            {
+                "requirement": "**Responsibilities:**",
+                "status": "Fail",
+                "explanation": "The requirement asks for a description of responsibilities. The child document describes the candidate's experience, skills, and aspirations rather than outlining specific responsibilities they would undertake in a Customer Support role. It focuses on personal growth and preferences, not the duties of the position itself. The mention of \"high level role\" doesn't translate to a description of responsibilities.",
+                "similarity_score": 0.301,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Analyze Amazon product sales, conversion rate, page views, costs, etc. and propose strategies to troubleshoot problems.",
+                "status": "Fail",
+                "explanation": "The child document describes the candidate's experience and aspirations, focusing on their customer support skills and desire for a high-level role. It does not analyze Amazon product sales, conversion rate, page views, or costs, nor does it propose strategies to troubleshoot problems related to those areas. The document is about the candidate's qualifications, not an analysis of Amazon data and problem-solving strategies.",
+                "similarity_score": 0.325,
+                "best_match": "thousands of resolved problems, also, thousands of happy Users"
+            },
+            {
+                "requirement": "*   Maintain product success on Amazon, monitor metrics shifts, follow market trends, and manage remote teams.",
+                "status": "Fail",
+                "explanation": "The child document focuses heavily on the candidate's personal skills and desire for career growth. While demonstrating strong customer support experience is valuable, it doesn't directly address the requirement of maintaining product success on Amazon, monitoring metrics shifts, following market trends, and managing remote teams. The document lacks any mention of these key responsibilities. It primarily focuses on the candidate's individual capabilities and preferences rather than how they would contribute to achieving broader business goals related to Amazon product success. The request for an office also doesn't align with the requirement of managing remote teams, suggesting a potential disconnect in understanding.",
+                "similarity_score": 0.388,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Develop strategies to increase sales, reduce costs, improve conversion rate, and optimize pricing/PPC.",
+                "status": "Fail",
+                "explanation": "The child document focuses on the candidate's personal experience and desire for a high-level role, emphasizing their skills and work ethic. However, it *doesn't* address any strategies related to increasing sales, reducing costs, improving conversion rate, or optimizing pricing/PPC. It's a description of the candidate, not a plan to meet the requirement. Therefore, it fails to meet the stated requirement.",
+                "similarity_score": 0.332,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Analyze reports and coordinate with the finance department regarding cash flow and P&L.",
+                "status": "Fail",
+                "explanation": "The child document describes a candidate's experience and aspirations for a customer support role, focusing on personal development and avoiding lower-level positions. It does not mention any analysis of reports or coordination with the finance department regarding cash flow and P&L, which are key aspects of the stated requirement. Therefore, the child document does not meet the requirement.",
+                "similarity_score": 0.202,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Identify potential issues before they become problems and understand the operating environment.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates an understanding of potential issues and the operating environment. The candidate highlights a history of resolving problems (\"thousands of resolved problems\"), which implies identifying issues before they escalate. Their experience with \"difficult, monotonous work\" and achieving perfection suggests a proactive approach to problem-solving. The mention of working with people, for people, and their desire for a high-level role further indicates an awareness of the operating environment (customer interaction, company expectations). While not explicitly stating proactive identification, their experience strongly suggests it.",
+                "similarity_score": 0.416,
+                "best_match": "thousands of resolved problems, also, thousands of happy Users"
+            },
+            {
+                "requirement": "*   Research programs and tools on Amazon and other marketplaces to expand and protect the brand (e.g., Amazon Project Zero, Transparency).",
+                "status": "Fail",
+                "explanation": "The child document describes the candidate's experience and aspirations for a customer support role. It does not mention any research or implementation of brand protection programs like Amazon Project Zero or Transparency, nor does it discuss exploring other marketplaces for such tools. The document focuses solely on the candidate's skills and desired role, failing to address the requirement of researching and implementing brand protection strategies.",
+                "similarity_score": 0.261,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Manage migration processes during acquisition of a new brand (due diligence, account migration, relationship building).",
+                "status": "Fail",
+                "explanation": "The child document focuses on the candidate's personal skills and career aspirations (customer support experience, desire for a high-level role, preference for an office). It does not address any aspect of managing migration processes during acquisition of a new brand. There's no mention of due diligence, account migration, or relationship building \u2013 all key components of the requirement. The document is entirely focused on the candidate's individual capabilities and preferences, not on a process-oriented task like brand acquisition migration.",
+                "similarity_score": 0.325,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Interface with legal team regarding intellectual property or legal issues.",
+                "status": "Fail",
+                "explanation": "The child document describes a customer support professional's experience and career aspirations. It focuses on their skills, work ethic, and desire for a high-level role. There is no mention of interfacing with legal teams or addressing intellectual property/legal issues, which is the core requirement. The document primarily details customer support experience and personal career goals, not legal interaction.",
+                "similarity_score": 0.231,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Coordinate with customer satisfaction team to ensure best experience.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates coordination with customer satisfaction through several indicators. The mention of \"thousands of resolved problems\" and \"thousands of happy Users\" directly implies a focus on customer satisfaction. The candidate's experience in customer support and their dedication to working \"with people, for people\" further supports this. While the document also mentions personal development and an office requirement, these do not contradict the core requirement of coordinating with customer satisfaction.",
+                "similarity_score": 0.561,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            },
+            {
+                "requirement": "*   Manage product pre-launches, launches and expansion.",
+                "status": "Fail",
+                "explanation": "The child document describes the candidate's experience and aspirations, focusing on their customer support skills and desire for a high-level role. It does not directly address managing product pre-launches, launches, or expansion \u2013 the core of the requirement. While excellent customer support is valuable during these phases, it doesn't demonstrate management or oversight of the processes themselves. The document focuses on individual skills and career goals rather than strategic product lifecycle management.",
+                "similarity_score": 0.257,
+                "best_match": "Tech addicted, experienced customer support with 2 years of proven experience at high level worldwide companies"
+            },
+            {
+                "requirement": "*   Coordinate with the supply chain to ensure products are in stock, have proper labeling and documentation.",
+                "status": "Fail",
+                "explanation": "The child document describes the candidate's experience and aspirations for a customer support role. It focuses on personal development, skills, and preferences (e.g., not wanting an L1 position, needing an office). It does *not* address coordination with the supply chain to ensure products are in stock, have proper labeling and documentation. Therefore, it fails to meet the requirement.",
+                "similarity_score": 0.265,
+                "best_match": "In terms of the nature of the Customer Support position, I am looking for a high level role, in order to ensure my personal development"
+            }
+        ],
+        {
+            "compliance_rate": 0.46,
+            "avg_similarity": 0.33
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "\u2022 Experience with PHP (2+ years)",
+                "status": "Fail",
+                "explanation": "The child document describes a customer support role, which involves troubleshooting and communication. While it mentions \"perform QA tasks, identify bugs, collaborate with developers,\" this doesn't directly demonstrate experience *with PHP*. The requirement specifically asks for 2+ years of PHP experience, and the child document doesn't provide any evidence of that. Therefore, it fails to meet the requirement.",
+                "similarity_score": 0.278,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 Strong knowledge and work experience with Laravel",
+                "status": "Fail",
+                "explanation": "While the child document describes a role with responsibilities that could involve Laravel (e.g., identifying bugs, collaborating with developers), it doesn's explicitly mention or demonstrate strong knowledge and work experience *with* Laravel. The tasks described are more aligned with general customer support and troubleshooting, which could be performed using various technologies. There's no indication that Laravel is a core part of the role or that the candidate possesses strong expertise in it.",
+                "similarity_score": 0.39,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 Experience with JavaScript (Vue.js)",
+                "status": "Fail",
+                "explanation": "The child document describes a customer support role with responsibilities like troubleshooting, reporting, and training. While it mentions \"perform QA tasks, identify bugs, collaborate with developers,\" this doesn't explicitly demonstrate experience with JavaScript (Vue.js). The listed tasks are primarily related to customer interaction, problem-solving, and quality assurance in a broader sense, not specifically involving JavaScript development or framework experience. Therefore, the child document does not meet the requirement of having experience with JavaScript (Vue.js).",
+                "similarity_score": 0.175,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 Excellent knowledge of databases (MySQL)",
+                "status": "Fail",
+                "explanation": "The child document describes a customer support role with responsibilities like troubleshooting, communication in multiple languages, and reporting. While these are valuable skills, they do not directly demonstrate \"excellent knowledge of databases (MySQL)\". The tasks listed don't involve database design, querying, administration, or any other activity that would indicate a deep understanding of MySQL. The role might *use* data stored in a database, but it doesn't require excellent knowledge of the database itself.",
+                "similarity_score": 0.345,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 Experience working with GIT",
+                "status": "Pass",
+                "explanation": "While the child document doesn't explicitly mention \"GIT,\" it describes a role that would likely benefit from using version control, especially when collaborating with developers to identify and resolve bugs. The tasks of identifying bugs, performing QA, and potentially contributing to code fixes strongly suggest the need for a tool like GIT. Therefore, it's reasonable to assume that experience with GIT would be valuable and potentially required in this role.",
+                "similarity_score": 0.296,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 Good problem-solving abilities",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates good problem-solving abilities. The listed tasks include diagnosing and resolving incidents, identifying and escalating repeat issues, managing incidents through their lifecycle, performing QA tasks (identifying bugs), proposing improvements to services, and helping retain customers through good service. All these activities require analytical thinking, troubleshooting skills, and the ability to find solutions \u2013 all hallmarks of good problem-solving.",
+                "similarity_score": 0.265,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            },
+            {
+                "requirement": "\u2022 English - Intermediate level",
+                "status": "Pass",
+                "explanation": "The child document clearly demonstrates an intermediate level of English. The text uses grammatically correct sentences and vocabulary appropriate for professional communication, specifically mentioning providing support in both Polish and English. The tasks described (customer support, proposing improvements, diagnosing issues, reporting) require a solid understanding and application of English.",
+                "similarity_score": 0.193,
+                "best_match": "provide customer support via telephone, e-mail, Skype in Polish and English languages\r\n propose improvements to services of company\r\n diagnose and resolve incidents to the customers satisfaction\r\n identify and escalate repeat issues or service risks to the support manager\r\n manage incidents and requests through their entire lifecycle\r\n provide regular reporting on number of cases, resolution times, etc"
+            },
+            {
+                "requirement": "\u2022 (Desirable) Server management experience",
+                "status": "Fail",
+                "explanation": "While the child document describes a role with responsibilities that involve problem-solving and potentially interacting with technical systems, it does not explicitly mention server management experience. The tasks listed focus on customer support and issue resolution, which are distinct from the skills typically associated with server management (e.g., configuration, maintenance, security). Therefore, it does not meet the requirement of \"server management experience.\"",
+                "similarity_score": 0.365,
+                "best_match": "help company to retain customers by delivering good quality of service\r\n perform QA tasks, identify bugs, collaborate with developers\r\n train colleagues on the systems we are supporting"
+            }
+        ],
+        {
+            "compliance_rate": 0.38,
+            "avg_similarity": 0.29
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "\u2022 Experience in IT sales (1+ year)",
+                "status": "Pass",
+                "explanation": "The child document demonstrates experience related to IT sales, although not explicitly stated as \"IT sales.\" The candidate's responsibilities include managing infrastructure, providing support to end-users (which often involves sales or upselling solutions), and working within a TCP/IP network environment. The experience with migrating servers, managing user accounts in Active Directory, and troubleshooting hardware/software issues all align with tasks often performed by individuals involved in IT sales or closely supporting sales efforts. While the document doesn't explicitly state \"1+ year of IT sales experience,\" it clearly demonstrates relevant skills and responsibilities that would typically fall under the umbrella of IT sales or closely related roles.",
+                "similarity_score": 0.444,
+                "best_match": "Acting as the first point of contact for all IT & technical queries"
+            },
+            {
+                "requirement": "\u2022 Generic understanding of IT technologies and Software Development process",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a strong understanding of IT technologies and the software development process. The candidate's experience includes migrating operating systems (Windows 7 to 10, Open SUSE to RHEL 7), managing servers, and working with various networking technologies (TCP/IP, DHCP, DNS, Ethernet). They also have experience with security tools like Kaspersky and Palo Alto firewalls. The description of their duties, including troubleshooting hardware/software issues, managing user accounts in Active Directory, and maintaining Windows Update Services, further supports their understanding of IT technologies and the processes involved in supporting them. The candidate's proactive approach to developing infrastructure and systems aligns with a solid understanding of software development principles.",
+                "similarity_score": 0.447,
+                "best_match": "Acting as the first point of contact for all IT & technical queries"
+            },
+            {
+                "requirement": "\u2022 Knowledge of sales techniques, sales markets",
+                "status": "Fail",
+                "explanation": "The child document describes technical skills and experience related to IT support, system administration, and troubleshooting. While these are valuable skills, they do not directly demonstrate knowledge of sales techniques or sales markets. The document focuses on technical tasks and problem-solving within an IT environment, lacking any mention of sales strategies, customer acquisition, or market analysis. Therefore, the child document does not meet the requirement of demonstrating knowledge of sales techniques and sales markets.",
+                "similarity_score": 0.333,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            },
+            {
+                "requirement": "\u2022 Good communication and negotiation skills",
+                "status": "Pass",
+                "explanation": "The child document provides ample evidence of good communication and negotiation skills. The candidate's role as the \"first point of contact for all IT & technical queries\" and their responsibility to \"respond to queries in a timely and accurate manner and resolving queries to the user\u2019s satisfaction\" directly demonstrates communication skills. The description of providing phone and remote desktop support further highlights their ability to communicate effectively with end-users. The candidate's experience collaborating with other IT team members also suggests negotiation and communication skills are present in a professional setting.",
+                "similarity_score": 0.586,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            },
+            {
+                "requirement": "\u2022 Fluent written and good spoken English",
+                "status": "Pass",
+                "explanation": "The child document demonstrates fluent written English through its clear and detailed description of the candidate's experience. While it doesn\u2019t explicitly state \"good spoken English,\" the extensive technical descriptions and responsibilities suggest a level of communication proficiency necessary to articulate these tasks, indicating likely good spoken English. The document provides ample evidence of technical competence and communication skills required for an IT support role, fulfilling the requirement.",
+                "similarity_score": 0.401,
+                "best_match": "Possessing excellent client facing skills, natural problem solving and analytical skills and able to contribute to the development of best practice, procedures and policies within a company"
+            }
+        ],
+        {
+            "compliance_rate": 0.8,
+            "avg_similarity": 0.44
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "1. **Experience:** Minimum 2 years of experience in digital marketing (B2B).",
+                "status": "Fail",
+                "explanation": "The child document details technical skills related to 1C programming, web services, and basic front-end technologies. While these are valuable skills, they do not demonstrate experience in digital marketing (B2B). The listed technologies are primarily development and data management tools, not marketing platforms or strategies. Therefore, the child document fails to meet the requirement of minimum 2 years of experience in digital marketing (B2B).",
+                "similarity_score": 0.189,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "2. **IT Outsourcing Experience:** Minimum 2 years of experience in IT outsourcing is mandatory.",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and experience with various technologies, but it does not explicitly state any experience in IT outsourcing. The requirement is for a minimum of 2 years of *IT outsourcing* experience, which is not evident from the provided skills list. Therefore, the child document fails to meet this requirement.",
+                "similarity_score": 0.242,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "3. **Language Proficiency:** Upper Intermediate/B2+ level of English (both verbal and written).",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and technologies, primarily related to 1C programming and web development. It does not demonstrate any assessment or evidence of English language proficiency at an Upper Intermediate/B2+ level. The listed skills are technical and do not inherently imply a certain level of English language ability, even though such proficiency would likely be beneficial for utilizing these technologies. The document is a list of keywords and does not contain any written samples or verbal communication that could be evaluated for language proficiency.",
+                "similarity_score": 0.244,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "4. **Marketing Research Experience:** Demonstrated experience in conducting marketing research.",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and experience related to 1C programming, web services, databases, and front-end development. It does not mention any experience in conducting marketing research. Therefore, the requirement \"Demonstrated experience in conducting marketing research\" is not met.",
+                "similarity_score": 0.218,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "5. **Content Creation Skills:** Ability to create technical tasks for various marketing collateral (landing pages, blog posts, white papers, case studies).",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and technologies, primarily focused on 1C programming and related web services. While these skills demonstrate technical proficiency, they do not directly showcase an *ability to create technical tasks* for marketing collateral like landing pages, blog posts, white papers, or case studies. The listed skills are more aligned with software development and system integration rather than content creation for marketing purposes. Therefore, the child document fails to meet the requirement of demonstrating content creation skills specifically tailored for marketing collateral.",
+                "similarity_score": 0.292,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "requirement": "6. **Digital Marketing Channel Understanding:** Strong understanding of digital marketing channels.",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and programming languages, but it doesn't demonstrate an understanding of digital marketing channels. While some listed technologies (like JavaScript and potentially Node.js) *could* be used in digital marketing, the document focuses on backend development and database technologies. There's no mention of SEO, SEM, social media marketing, email marketing, content marketing, analytics platforms (like Google Analytics), or any other core digital marketing concepts. Therefore, the requirement is not met.",
+                "similarity_score": 0.169,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "7. **Customer Segmentation & Targeting Skills:** Experience with customer segmentation, profiling, and targeting.",
+                "status": "Pass",
+                "explanation": "The child document lists experience with \"custom configurations\" and mentions \"reports, processing.\" These activities inherently involve customer segmentation and targeting to determine which customers should be included in reports or targeted with specific processing workflows. The inclusion of technologies like JSON, XML and REST API further supports this as these are often used to exchange customer data for segmentation and targeting purposes. While not explicitly stated, the listed skills strongly suggest experience with these concepts.",
+                "similarity_score": 0.288,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "8. **Analytics Proficiency:** Proficiency with analytics tools and web traffic reporting.",
+                "status": "Pass",
+                "explanation": "The child document lists a wide range of technologies and skills, including \"reports\" and \"processing,\" which directly relate to analytics. The inclusion of JSON, XML, SQL, and experience with web services (HTTP, REST API) further indicates proficiency in handling data and reporting. While not explicitly stating \"analytics tools,\" the listed skills strongly suggest familiarity with analyzing data and generating reports, fulfilling the requirement.",
+                "similarity_score": 0.328,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "9. **Collaboration Skills:** Ability to coordinate with designers, copywriters, SEO specialists and web developers for content creation and website management.",
+                "status": "Fail",
+                "explanation": "The child document primarily lists technical skills related to 1C programming, web technologies, and integrations. While some of these (like understanding JSON/XML) *could* be relevant to collaboration, the document doesn't demonstrate an ability or experience in coordinating with designers, copywriters, SEO specialists, and web developers. It focuses on technical implementation rather than collaborative processes. The listed skills are more indicative of a developer's skillset, not necessarily someone who excels at cross-functional collaboration.",
+                "similarity_score": 0.279,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "requirement": "10. **Content Distribution Skills:** Ability to distribute content on off-site placements (Quora, Reddit, LinkedIn, Facebook etc. - would be a plus).",
+                "status": "Fail",
+                "explanation": "The child document lists technical skills and technologies. While it demonstrates a broad range of programming and database knowledge, it does not mention any experience or ability to distribute content on external platforms like Quora, Reddit, LinkedIn, or Facebook. The requirement specifically asks for \"Ability to distribute content on off-site placements,\" which is not evident in the provided skills list.",
+                "similarity_score": 0.306,
+                "best_match": "UPP, custom configurations, managed and usual forms,\r\nJSON, XML, XDTO, FTP, WEB services, WS-link, HTTP, REST API, Jira\r\nCOM \u2013 connection, COM-port, RLS, extension, mobile application, Administration 1C, configuration store\r\nwriting an external component in C#\r\nBasic knowledge: HTML5, CSS3, JavaScript, Node"
+            },
+            {
+                "requirement": "11. **Data Analysis Skills:** Ability to analyze data using Excel and Google spreadsheets (would be a plus).",
+                "status": "Pass",
+                "explanation": "The child document lists a wide range of technical skills, including experience with databases (MongoDB, SQL), web technologies (HTML5, CSS3, JavaScript, Node.js, React) and data manipulation techniques implied by the listed technologies. While it doesn't explicitly state \"Excel\" or \"Google Sheets,\" the broad skillset suggests a capability to analyze data, which aligns with the requirement. The inclusion of reporting and processing within the listed skills further supports this assessment.",
+                "similarity_score": 0.343,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "12. **Facebook Campaign Experience:** Experience building and optimizing Facebook campaigns (would be a plus).",
+                "status": "Fail",
+                "explanation": "The requirement asks for experience building and optimizing Facebook campaigns. The child document lists a wide range of technical skills related to 1C programming, web technologies, and database management. However, it *does not* mention any experience with Facebook campaigns or digital marketing in general. Therefore, the child document does not meet this requirement.",
+                "similarity_score": 0.167,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "13. **Experimentation & Hypothesis Testing:** Willingness to conduct ongoing experiments and hypothesis tests.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a willingness to conduct ongoing experiments and hypothesis tests through its listing of various technologies, programming languages (C#, JavaScript), databases (MongoDB, SQL), and integration methods (FTP, WEB services, REST API). The inclusion of \"custom configurations\" and \"writing an external component in C#\" suggests active experimentation with system behavior. The breadth of listed technologies implies a desire to explore and test different approaches to problem-solving, aligning with the requirement for experimentation and hypothesis testing.",
+                "similarity_score": 0.248,
+                "best_match": "3 programming, reports, processing, SKD"
+            },
+            {
+                "requirement": "14. **Metric Collection & Analysis:** Ability to collect and analyze marketing metrics.",
+                "status": "Pass",
+                "explanation": "The child document lists a wide range of technologies and skills related to data processing, reporting, and integration. Specifically mentioning \"reports\" and \"processing\" directly addresses the requirement of collecting and analyzing marketing metrics. The inclusion of technologies like JSON, XML, SQL, MongoDB, WEB services (REST API), and FTP further supports the ability to collect data from various sources and analyze it. The mention of \"Jira\" suggests integration with a project management tool, which often involves tracking and analyzing marketing campaign performance. Therefore, the child document demonstrates a strong capability to collect and analyze marketing metrics.",
+                "similarity_score": 0.322,
+                "best_match": "3 programming, reports, processing, SKD"
+            }
+        ],
+        {
+            "compliance_rate": 0.36,
+            "avg_similarity": 0.26
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "**Explicit Requirements:**",
+                "status": "Pass",
+                "explanation": "The requirement is not specified. However, the child document provides a detailed list of software used and skills possessed by the individual. It clearly demonstrates experience in various areas including animation, game design, video creation, music production, and project management. The document fulfills the implicit requirement of showcasing relevant experience and skills.",
+                "similarity_score": 0.261,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Minimum 2+ years of experience and proven track record in sales.",
+                "status": "Fail",
+                "explanation": "The child document describes a wide range of software proficiency and roles (Animation Director, Deputy Director for Project Management), but it lacks any concrete evidence of a minimum 2+ years of experience and proven track record *specifically in sales*. The document focuses on technical skills and project management roles, not sales experience. There's no mention of sales targets achieved, customer acquisition strategies employed, or any quantifiable results related to sales. Therefore, the requirement is not met.",
+                "similarity_score": 0.261,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Excellent communication skills (both verbal and written).",
+                "status": "Pass",
+                "explanation": "The child document demonstrates excellent written communication skills. While informal, it clearly lists a wide range of software and experiences in a structured manner. The language is understandable and conveys the individual's skills and interests effectively, even if it lacks formal polish. The concluding sentences also show a desire for verbal communication (\"I would love to talk to a real person!\"), indicating an awareness of the importance of both verbal and written communication.",
+                "similarity_score": 0.27,
+                "best_match": "Served as Animation Director, Deputy Director for Project Management\r\n\r\nI would love to talk to a real person!\r\nThank you\r\n(Ukraine)\r\n\r\nPC"
+            },
+            {
+                "requirement": "*   Advanced level of English proficiency.",
+                "status": "Fail",
+                "explanation": "The child document demonstrates a wide range of technical skills and experience with various software programs. However, the language used is quite basic and informal (\"Hi!\", \"My very first program,\" lists of software with brief descriptions). There's a lack of complex sentence structures, nuanced vocabulary, and sophisticated grammar. The writing style is conversational rather than demonstrating an advanced level of English proficiency expected for a \"Pass\" judgment. The text is more akin to a list or notes rather than a well-written document showcasing advanced English skills.",
+                "similarity_score": 0.153,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Understanding of the software development process and IT industry knowledge.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates a clear understanding of various software and tools used in the IT industry, particularly within animation, video creation, game development, and project management. The list of software (Blender, Unreal Engine, Unity, etc.) shows familiarity with industry-standard tools. The description of roles (Animation Director, Deputy Director for Project Management) and the statement \"Game designer in any direction\" further supports a good understanding of the software development process and IT industry knowledge. While not explicitly detailing *how* this knowledge is applied, the breadth of tools and roles mentioned indicates a solid foundation.",
+                "similarity_score": 0.223,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Good understanding of US and European markets, with the ability to manage operations in those regions.",
+                "status": "Fail",
+                "explanation": "The child document lists various software and skills related to animation, video creation, music production, and project management. While demonstrating technical proficiency, it doesn't provide any evidence of understanding or experience with US and European markets. There is no mention of market analysis, regional regulations, cultural nuances, or operational management within those regions. The document focuses on individual skills and software familiarity rather than demonstrating a broader understanding of market dynamics or regional operations.",
+                "similarity_score": 0.147,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "**Implied Requirements:**",
+                "status": "Pass",
+                "explanation": "The requirement is \"Implied Requirements\". The child document provides a detailed list of software used, roles held (Animation Director, Deputy Director), and skills demonstrated (animation, character design, game design). This implicitly demonstrates a range of requirements related to software proficiency, project management, and creative skills. The document clearly outlines the user's experience and capabilities, fulfilling the implied requirement of showcasing relevant skills and tools.",
+                "similarity_score": 0.187,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Ability to qualify sales opportunities effectively.",
+                "status": "Fail",
+                "explanation": "The child document lists various software and tools used, along with a brief description of their use. It also mentions roles held (Animation Director, Deputy Director for Project Management) and a desire to connect with people. However, it *doesn't* demonstrate an ability to qualify sales opportunities effectively. There is no mention of identifying, evaluating, or prioritizing potential customers or deals. The document focuses on technical skills and project experience rather than sales qualification abilities.",
+                "similarity_score": 0.241,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Strong negotiation and proposal development skills, leading to successful deal closures.",
+                "status": "Fail",
+                "explanation": "The child document lists software and skills related to animation, game design, and video creation. While it demonstrates a broad range of technical abilities, it does not provide any evidence of \"strong negotiation and proposal development skills\" or \"successful deal closures.\" The document focuses on technical proficiency rather than business acumen. Therefore, it fails to meet the requirement.",
+                "similarity_score": 0.244,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Creativity in crafting customized sales messages and compelling presentations.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates creativity through a diverse range of software used for various creative tasks like animation, video creation, music production, and graphic design. The list showcases a clear passion for exploring different tools to achieve creative goals, which aligns with the requirement of creativity in crafting customized sales messages and compelling presentations. While not explicitly stating \"sales messages\" or \"presentations,\" the breadth of skills suggests an ability to adapt and creatively present ideas, which is a core element of both.",
+                "similarity_score": 0.348,
+                "best_match": "drawing, cartoon\r\n\r\nAnimate                          Vector cartoons\r\n\r\nPhotoshop                     Drawing\r\n\r\nAfter Effects                   Made cartoons, videos with simple effects\r\n\r\nMoho                               Made vector cartoons\r\n\r\nCamtasia Studio           Made videos\r\n\r\nSketchUp                        House Modeling\r\n\r\nSparkolVideoSkribe     Made videos \"learning to draw\" (hand with a pen)\r\n\r\nFLStudio 12                    Made music for the game\r\n\r\nCorelDRAW                     I also made logos for commercials through Sparkol\r\n\r\n\r\n\r\nSlack, diskord,telegram"
+            },
+            {
+                "requirement": "*   Ability to collaborate effectively with various teams (lead generation, pre-sales, marketing, delivery).",
+                "status": "Pass",
+                "explanation": "The child document demonstrates an ability to collaborate effectively with various teams. The list of software used spans multiple areas (animation, video editing, music production, design), indicating involvement in diverse projects. Furthermore, the explicit mention of tools like Slack, Discord, Telegram (communication), Dropbox/Google Disk (file sharing), and Trello/Miro/Google Sheets (project management) directly points to collaboration with teams like lead generation, pre-sales, marketing and delivery. The roles mentioned (Animation Director, Deputy Director for Project Management) further support this assessment.",
+                "similarity_score": 0.312,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Experience managing RFIs/RFPs.",
+                "status": "Pass",
+                "explanation": "The child document explicitly states \"Served as Animation Director, Deputy Director for Project Management\". Managing RFIs/RFPs is a common task within project management and animation director roles, particularly when dealing with external vendors or large-scale projects. The experience listed suggests involvement in project leadership, which would likely include managing RFIs/RFPs at some point.",
+                "similarity_score": 0.211,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Proven ability to achieve sales targets and meet quotas.",
+                "status": "Fail",
+                "explanation": "The child document lists various software and skills related to animation, video creation, music production, and project management. While it demonstrates a broad range of technical abilities, it *doesn't* provide any concrete evidence or quantifiable achievements related to achieving sales targets or meeting quotas. The document describes roles like \"Animation Director\" and \"Deputy Director for Project Management,\" but doesn't mention any sales figures, quota attainment, or revenue generation. Therefore, it fails to meet the requirement of demonstrating a proven ability to achieve sales targets and meet quotas.",
+                "similarity_score": 0.247,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Proficiency in using CRM systems for opportunity management.",
+                "status": "Fail",
+                "explanation": "The child document lists a variety of software used for animation, video editing, music production, and project management. While it mentions tools like Slack, Dropbox, Trello, and Google Sheets which *could* be considered part of a CRM system in some contexts (for project task management and communication), it does not demonstrate proficiency or even mention the use of a dedicated CRM system for opportunity management. The listed tools are more general purpose and do not directly address the requirement of CRM system usage for opportunity management.",
+                "similarity_score": 0.212,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Strong relationship-building skills with a focus on nurturing customer relationships and understanding their needs.",
+                "status": "Fail",
+                "explanation": "The child document primarily lists software and tools the individual has used, along with a brief description of their usage. While it mentions \"connection with projects\" (Slack, Discord, Telegram) and roles like Animation Director/Deputy Director, it doesn't demonstrate strong relationship-building skills or a focus on nurturing customer relationships and understanding their needs. The document is more of a technical skillset inventory rather than showcasing interpersonal abilities. There's no evidence of actively building and maintaining customer relationships or deeply understanding their needs. The final request to \"talk to a real person\" is more of a general desire for communication rather than an indication of established relationship-building skills.",
+                "similarity_score": 0.154,
+                "best_match": "Served as Animation Director, Deputy Director for Project Management\r\n\r\nI would love to talk to a real person!\r\nThank you\r\n(Ukraine)\r\n\r\nPC"
+            },
+            {
+                "requirement": "*   Proactive identification of new sales opportunities.",
+                "status": "Fail",
+                "explanation": "The child document lists various software and tools the individual has used, along with their roles in projects. While it demonstrates a broad range of skills and experience related to animation, game design, and video creation, it doesn't explicitly describe proactive identification of new sales opportunities. The document focuses on the individual\u2019s technical skills and project involvement, not their ability to find new business opportunities. Therefore, it fails to meet the requirement.",
+                "similarity_score": 0.2,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Ability to work independently with minimal supervision.",
+                "status": "Fail",
+                "explanation": "The child document describes a wide range of software and skills, demonstrating experience but not necessarily independent work. It lists various programs used for different tasks (animation, video editing, music production, etc.) and mentions roles like Animation Director and Deputy Director for Project Management. However, it lacks specific examples of independently completing projects from start to finish without significant supervision. The document reads more like a list of tools and roles held, rather than showcasing the ability to function autonomously. The final line \"I would love to talk to a real person!\" further suggests a need for external guidance or collaboration.",
+                "similarity_score": 0.344,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            },
+            {
+                "requirement": "*   Excellent organizational and problem-solving skills.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates excellent organizational skills through the detailed listing of software and tools used, categorized by function (animation, video editing, music production, project management, etc.). It also implicitly shows problem-solving skills by showcasing a wide range of tools used to achieve various tasks, indicating adaptability and resourcefulness in finding solutions. The list itself is well-organized and provides a clear picture of the individual's skillset and experience. The inclusion of project management tools further supports this judgment.",
+                "similarity_score": 0.325,
+                "best_match": "Game designer in any direction, except gambling, cards"
+            },
+            {
+                "requirement": "*   Attention to detail.",
+                "status": "Pass",
+                "explanation": "The child document demonstrates attention to detail in several ways. It provides a comprehensive list of software used, categorizes them by function (e.g., \"Engine,\" \"Creating anime characters\"), and provides brief descriptions of their use. The inclusion of specific versions (e.g., \"FLStudio 12\") further shows a level of detail. The list also extends to project management and communication tools, indicating a thorough consideration of the overall workflow. While not perfect (e.g., some descriptions are very short), it clearly shows an effort to document a wide range of tools and their applications, which aligns with the requirement for attention to detail.",
+                "similarity_score": 0.184,
+                "best_match": "project tasks\r\nI do any animation, character, facial, robots"
+            }
+        ],
+        {
+            "compliance_rate": 0.47,
+            "avg_similarity": 0.24
+        }
+    ],
+    [
+        [
+            {
+                "requirement": "*   **Database Experience:** Minimum 2 years of experience with MS SQL Server and T-SQL.",
+                "status": "Fail",
+                "explanation": "The child document describes experience with art creation tools (Photoshop, Maya, Blender, Zbrush) and game development on Unity. However, it does not mention any experience with MS SQL Server or T-SQL, which are explicitly required by the requirement. Therefore, the child document fails to meet the database experience requirement.",
+                "similarity_score": 0.328,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "requirement": "*   **SQL Server Versions:** Experience with SQL Server 2008 R2 through 2017.",
+                "status": "Fail",
+                "explanation": "The requirement specifies experience with SQL Server versions (2008 R2 through 2017). The child document describes artistic experience with game development using tools like Photoshop, Maya, Blender and Zbrush. There is no mention of SQL Server or any database experience whatsoever. Therefore, the child document does not meet this requirement.",
+                "similarity_score": 0.28,
+                "best_match": "A few years work under PC horror game like 2d artist (promo art, concept art, 2d animations (intro\\outro))\r\n\r\nalmost 2 years under mobile shooter project on Unity engine"
+            },
+            {
+                "requirement": "*   **Development Tools:** Proficiency in Visual Studio + SSDT.",
+                "status": "Fail",
+                "explanation": "The requirement specifies proficiency in Visual Studio + SSDT. The child document describes experience with art tools like Photoshop, Maya, Blender, and Zbrush, as well as Unity engine. There is no mention of Visual Studio or SSDT (SQL Server Data Tools), indicating a lack of proficiency in the required development tools.",
+                "similarity_score": 0.264,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Reporting & Services:** Experience with SSRS, including creating queries/reports and setting up/maintaining services and shared service components.",
+                "status": "Fail",
+                "explanation": "The requirement specifically asks for experience with SSRS (SQL Server Reporting Services) for creating queries/reports and managing services. The child document details experience in art creation (2D & 3D) using tools like Photoshop, Maya, Blender and Zbrush within game development. There is no mention of SSRS or any related reporting/services experience. Therefore, the child document does not meet this requirement.",
+                "similarity_score": 0.198,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **ETL:** SSIS experience is required.",
+                "status": "Fail",
+                "explanation": "The requirement explicitly states \"SSIS experience is required.\" The child document describes artistic skills and experience with game development tools like Photoshop, Maya, Blender, and Unity. There is no mention of SSIS (SQL Server Integration Services) or any related data integration experience. Therefore, the child document does not meet the requirement.",
+                "similarity_score": 0.068,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Plus Skills (Beneficial):** XML, Web protocols, TFS, ASP.NET",
+                "status": "Pass",
+                "explanation": "The requirement lists \"Plus Skills (Beneficial): XML, Web protocols, TFS, ASP.NET\". The child document doesn't explicitly mention these skills. However, the requirement states they are *beneficial*, not mandatory. The child document demonstrates a range of art skills (2D and 3D) across different platforms and engines, which aligns with a beneficial skillset for many development roles. The experience in Unity, Photoshop, Maya and Blender are all relevant to a game developer role. Therefore, the child document meets the requirement as it showcases beneficial skills even if it doesn't directly address XML, Web protocols, TFS or ASP.NET.",
+                "similarity_score": 0.255,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Familiarity (Beneficial):** .Net Core, Visual Studio, and Powershell for SQL Server and Azure SQL.",
+                "status": "Fail",
+                "explanation": "The requirement specifies familiarity with .Net Core, Visual Studio, and Powershell for SQL Server and Azure SQL. The child document describes experience in art creation using tools like Photoshop, Maya, Blender, and Zbrush within the game development context. There is no mention of any experience with .Net Core, Visual Studio, or Powershell, which are development tools related to software engineering and database management. Therefore, the child document does not meet the requirement.",
+                "similarity_score": 0.302,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Data Quality & Troubleshooting:** Ability to proactively address data quality concerns, troubleshoot errors using tools like SQL Profiler and Extended Events.",
+                "status": "Fail",
+                "explanation": "The requirement focuses on data quality and troubleshooting using tools like SQL Profiler and Extended Events. The child document describes artistic experience in game development, primarily focusing on art creation (2D and 3D) using tools like Photoshop, Maya, Blender, and Zbrush. There's no mention of data quality concerns, SQL Profiler, Extended Events, or any troubleshooting related to databases or data pipelines. Therefore, the child document does not meet this requirement.",
+                "similarity_score": 0.085,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Database Administration:** Ability to manage security aspects of the database.",
+                "status": "Fail",
+                "explanation": "The requirement is \"Ability to manage security aspects of the database.\" The child document describes artistic skills and experience in 2D/3D art, animation, and related tasks within game development. There is no mention of database administration or security management skills whatsoever. Therefore, the child document does not meet this requirement.",
+                "similarity_score": 0.15,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            },
+            {
+                "requirement": "*   **Business Logic Implementation:** Apply/implement business logic for processes.",
+                "status": "Pass",
+                "explanation": "The child document describes experience applying artistic skills and workflows within game development projects. This directly relates to implementing business logic, as art assets are integral components of a game's functionality and user experience. The described roles (2D artist, 3D artist) involve creating assets that drive gameplay and contribute to the overall business logic of the game. The experience with Unity engine further supports this, as it's a platform for implementing and testing game logic. The progression from 2D to 3D art, including full pipeline experience, demonstrates a growing understanding of how assets are integrated into the game's core functionality.",
+                "similarity_score": 0.101,
+                "best_match": "etc; \r\n- 3d art (Maya) : environment, props, simple weapons (full pipeline from highpoly to texturing) \r\nA little experiense in 3d animation (blender)\r\nBeginner in Zbrush"
+            }
+        ],
+        {
+            "compliance_rate": 0.2,
+            "avg_similarity": 0.2
+        }
+    ]
+]
